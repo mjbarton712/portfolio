@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #fff;
   --foreground: #171717;
 }
 
@@ -20,7 +20,58 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: theme('colors.white');
+  color: theme('colors.black');
+  font-family: 'Inter', 'Geist', 'Satoshi', 'sans-serif';
+  font-feature-settings: "ss01", "ss02", "cv01", "cv02";
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background 0.4s, color 0.4s;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #18181b;
+    color: #fff;
+  }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+.animate-wiggle {
+  animation: wiggle 2.2s infinite;
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-16px) scale(1.05); }
+}
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+@keyframes float2 {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(12px) scale(1.08); }
+}
+.animate-float2 {
+  animation: float2 7s ease-in-out infinite;
+}
+@keyframes bounceOnce {
+  0% { transform: scale(1); }
+  20% { transform: scale(1.12); }
+  40% { transform: scale(0.96); }
+  60% { transform: scale(1.04); }
+  80% { transform: scale(0.98); }
+  100% { transform: scale(1); }
+}
+.animate-bounceOnce {
+  animation: bounceOnce 0.8s 1;
 }
