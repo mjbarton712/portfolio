@@ -1,0 +1,71 @@
+name: Sync & Deploy Portfolio
+
+on:
+  # Manual "Sync now" button in the Actions tab
+  workflow_dispatch:
+  # Daily automatic sync (07:00 UTC)
+  schedule:
+    - cron: "0 7 * * *"
+  # Redeploy on code changes
+  push:
+    branches: [main]
+
+# Only one deploy at a time; let a fresh sync cancel an in-flight one
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: write # commit refreshed data
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Pull latest repo + commit data from GitHub.
+      # GH_SYNC_TOKEN must be a PAT with `repo` scope to include PRIVATE repos.
+      # Falls back to the built-in token (public repos only) if unset.
+      - name: Sync from GitHub
+        env:
+          GH_SYNC_TOKEN: ${{ secrets.GH_SYNC_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run sync
+
+      # Persist the refreshed data so the "since last sync" diff works next time.
+      - name: Commit refreshed data
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "actions@github.com"
+          git add src/data/portfolio.json
+          git diff --cached --quiet || git commit -m "chore: sync portfolio data [skip ci]"
+          git push || echo "nothing to push"
+
+      - name: Build static site
+        env:
+          PAGES_BASE_PATH: /${{ github.event.repository.name }}
+        run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

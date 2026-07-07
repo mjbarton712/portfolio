@@ -1,0 +1,48 @@
+{
+  "_comment": "Curate what the public site shows. 'hidden' repos are dropped entirely (use for client/confidential private repos). 'featured' float to the top with a highlight. 'overrides' let you replace the GitHub description or add a tagline/emoji per repo.",
+  "hidden": [],
+  "featured": [
+    "culinary-card",
+    "tim-keller",
+    "asl-guide",
+    "austin-auto",
+    "g2-offline-captions",
+    "christmas-nativity-game",
+    "apartment-search",
+    "simple-strands"
+  ],
+  "overrides": {
+    "culinary-card": {
+      "emoji": "🍳",
+      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography."
+    },
+    "austin-auto": {
+      "emoji": "🔧",
+      "tagline": "Auto-shop management tool with Anthropic AI, Supabase, and PDF invoicing."
+    },
+    "asl-guide": {
+      "emoji": "🤟",
+      "tagline": "Interactive American Sign Language tutor powered by AWS Bedrock and Framer Motion."
+    },
+    "g2-offline-captions": {
+      "emoji": "🕶️",
+      "tagline": "Offline-first live captions for Even Realities G2 glasses — quantized ONNX (INT4) running locally on iOS."
+    },
+    "christmas-nativity-game": {
+      "emoji": "🎄",
+      "tagline": "A full 3D educational game — explore the nativity story from multiple perspectives in Three.js."
+    },
+    "apartment-search": {
+      "emoji": "🏠",
+      "tagline": "Multi-agent rental finder (Preference / Market / Listing analysts) with live Browserbase discovery and explainable scoring."
+    },
+    "simple-strands": {
+      "emoji": "🧭",
+      "tagline": "Multi-agent travel planner using a fan-out/fan-in architecture to research logistics and experiences."
+    },
+    "tim-keller": {
+      "emoji": "📖",
+      "tagline": "RAG chatbot over 1,600+ sermons — local Voxtral transcription, pgvector, AWS Bedrock retrieval."
+    }
+  }
+}

@@ -4,15 +4,18 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
+    "sync": "node scripts/sync.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^12.42.2",
     "geist": "^1.4.2",
     "next": "15.3.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

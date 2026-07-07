@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio — a living, auto-synced showcase
 
-## Getting Started
+An animated portfolio that pulls **everything you've built** straight from your
+GitHub account (`mjbarton712`) and keeps itself in sync. Features a scrubbable
+build **timeline** ("what I started" vs "what I kept building" per year),
+animated stats, and a filterable project grid.
 
-First, run the development server:
+## How it works
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+GitHub API ──(scripts/sync.mjs)──▶ src/data/portfolio.json ──▶ Next.js static site ──▶ GitHub Pages
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **`scripts/sync.mjs`** — reads every repo (public + private) via the GitHub
+  GraphQL API, including each repo's own commit history (reliable even when
+  commits use a different email). Writes `src/data/portfolio.json` and diffs
+  against the previous file to compute a "since last sync" changelog.
+- **`scripts/portfolio.config.json`** — your curation layer:
+  - `hidden` — repos to drop entirely (use for confidential/client work).
+  - `featured` — repos to float to the top with a ★ badge.
+  - `overrides` — per-repo `emoji`, `tagline`, or `description`.
+- The site is a **static export** (`output: "export"`), so it hosts anywhere.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Sync — manual & automatic
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+`.github/workflows/sync-and-deploy.yml` runs the sync + redeploys:
 
-## Learn More
+- **Automatic:** daily at 07:00 UTC (`schedule` cron).
+- **Manual "sync now":** GitHub → **Actions** tab → *Sync & Deploy Portfolio*
+  → **Run workflow**. (A literal in-site button would need a serverless proxy,
+  since a public static page can't safely hold a token — this is the secure
+  equivalent.)
+- Also redeploys on every push to `main`.
 
-To learn more about Next.js, take a look at the following resources:
+## Local development
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm install
+npm run sync     # refresh data from GitHub (uses `gh auth token`)
+npm run dev      # http://localhost:3000
+npm run build    # static export → ./out
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## First-time deploy (GitHub Pages)
 
-## Deploy on Vercel
+1. Create a repo (e.g. `portfolio`) and push this folder to it.
+2. **Settings → Secrets → Actions →** add `GH_SYNC_TOKEN`: a
+   [fine-grained PAT](https://github.com/settings/tokens) with **read access to
+   your repositories** (needed to include *private* repos). Without it the sync
+   still runs but only sees public repos.
+3. **Settings → Pages →** Source = **GitHub Actions**.
+4. Push, or run the workflow manually. Site publishes at
+   `https://mjbarton712.github.io/<repo>/`.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> ⚠️ **Privacy:** the generated `portfolio.json` is committed and served
+> publicly, so private repo **names, descriptions, and topics become public**.
+> Add any client/confidential repos to `hidden` in `portfolio.config.json`.
