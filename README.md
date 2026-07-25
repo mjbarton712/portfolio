@@ -46,8 +46,9 @@ npm run build    # static export → ./out
 1. Create a repo (e.g. `portfolio`) and push this folder to it.
 2. **Settings → Secrets → Actions →** add `GH_SYNC_TOKEN`: a
    [fine-grained PAT](https://github.com/settings/tokens) with **read access to
-   your repositories** (needed to include *private* repos). Without it the sync
-   still runs but only sees public repos.
+   your repositories** (needed to include *private* repos). Without it the
+   workflow skips the live sync and deploys the committed `portfolio.json`
+   as-is (so it never overwrites your full dataset with a public-only one).
 3. **Settings → Pages →** Source = **GitHub Actions**.
 4. Push, or run the workflow manually. Site publishes at
    `https://mjbarton712.github.io/<repo>/`.

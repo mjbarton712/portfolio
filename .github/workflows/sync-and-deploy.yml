@@ -33,17 +33,20 @@ jobs:
 
       - run: npm ci
 
-      # Pull latest repo + commit data from GitHub.
-      # GH_SYNC_TOKEN must be a PAT with `repo` scope to include PRIVATE repos.
-      # Falls back to the built-in token (public repos only) if unset.
+      # Pull latest repo + commit data from GitHub — ONLY when a PAT is set.
+      # GH_SYNC_TOKEN must be a PAT with `repo` read scope to include PRIVATE
+      # repos. Without it we skip the sync and build the committed data as-is,
+      # so a token-less CI run never overwrites the full dataset with a
+      # public-only one.
       - name: Sync from GitHub
+        if: ${{ secrets.GH_SYNC_TOKEN != '' }}
         env:
           GH_SYNC_TOKEN: ${{ secrets.GH_SYNC_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run sync
 
       # Persist the refreshed data so the "since last sync" diff works next time.
       - name: Commit refreshed data
+        if: ${{ secrets.GH_SYNC_TOKEN != '' }}
         run: |
           git config user.name "portfolio-bot"
           git config user.email "actions@github.com"
