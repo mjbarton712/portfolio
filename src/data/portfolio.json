@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:15:25.124Z",
+  "generatedAt": "2026-07-25T13:13:37.693Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -7,28 +7,28 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/56126927?v=4"
   },
   "stats": {
-    "totalRepos": 46,
-    "publicRepos": 16,
+    "totalRepos": 47,
+    "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 515,
+    "totalCommits": 555,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 4683720
+        "size": 4819334
       },
       {
         "name": "JavaScript",
-        "size": 502653
+        "size": 558269
       },
       {
         "name": "CSS",
-        "size": 304164
+        "size": 306775
       },
       {
         "name": "HTML",
-        "size": 198581
+        "size": 199428
       },
       {
         "name": "Python",
@@ -56,13 +56,14 @@
     {
       "year": 2026,
       "created": [
+        "portfolio",
+        "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
         "heidi-tutoring",
         "garden-plot",
         "aiewf-schedule",
         "l-systems",
-        "asl-guide",
         "aiewf-2026",
         "g2-offline-captions",
         "rooted-labs-llc",
@@ -72,14 +73,15 @@
         "simple-strands"
       ],
       "active": [
+        "portfolio",
+        "culinary-card",
+        "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
         "heidi-tutoring",
         "garden-plot",
         "aiewf-schedule",
         "l-systems",
-        "asl-guide",
-        "culinary-card",
         "aiewf-2026",
         "g2-offline-captions",
         "mortgage-rate-checker",
@@ -91,7 +93,7 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 130
+      "commits": 168
     },
     {
       "year": 2025,
@@ -117,6 +119,7 @@
         "daytrade"
       ],
       "active": [
+        "portfolio",
         "culinary-card",
         "job-bracket",
         "mortgage-rate-checker",
@@ -141,7 +144,7 @@
         "web-alchemy-build",
         "daytrade"
       ],
-      "commits": 201
+      "commits": 203
     },
     {
       "year": 2024,
@@ -215,71 +218,84 @@
   "changelog": [
     {
       "type": "new-repo",
-      "repo": "apartment-search",
-      "at": "2026-07-07T22:14:02Z"
+      "repo": "portfolio",
+      "at": "2026-07-25T12:59:53Z"
     },
     {
-      "type": "new-repo",
-      "repo": "ai-engineer-matt",
-      "at": "2026-07-07T22:12:54Z"
+      "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-07-25T12:59:51Z"
     },
     {
-      "type": "new-repo",
-      "repo": "heidi-tutoring",
-      "at": "2026-07-07T22:14:05Z"
+      "type": "updated",
+      "repo": "job-bracket",
+      "at": "2026-07-25T07:02:16Z"
     },
     {
-      "type": "new-repo",
-      "repo": "garden-plot",
-      "at": "2026-07-07T22:10:24Z"
-    },
-    {
-      "type": "new-repo",
-      "repo": "aiewf-schedule",
-      "at": "2026-07-07T22:10:28Z"
-    },
-    {
-      "type": "new-repo",
-      "repo": "l-systems",
-      "at": "2026-07-07T22:10:20Z"
+      "type": "updated",
+      "repo": "asl-guide",
+      "at": "2026-07-16T04:06:46Z"
     }
   ],
   "repos": [
     {
-      "name": "apartment-search",
+      "name": "culinary-card",
       "featured": true,
-      "emoji": "🏠",
-      "tagline": "Multi-agent rental finder (Preference / Market / Listing analysts) with live Browserbase discovery and explainable scoring.",
-      "description": "Multi-agent rental finder (Preference/Market/Listing analysts) with live discovery and explainable scoring",
-      "url": "https://github.com/mjbarton712/apartment-search",
-      "homepage": null,
+      "emoji": "🍳",
+      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/culinary-card",
+      "homepage": "https://culinary-card.vercel.app",
       "private": true,
       "archived": false,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
-      "diskKb": 0,
-      "createdAt": "2026-07-07T22:14:02Z",
-      "pushedAt": "2026-07-07T22:14:53Z",
-      "updatedAt": "2026-07-07T22:15:15Z",
+      "diskKb": 52750,
+      "createdAt": "2025-11-05T02:14:23Z",
+      "pushedAt": "2026-07-25T12:59:51Z",
+      "updatedAt": "2026-07-25T11:18:07Z",
       "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
+        "name": "TypeScript",
+        "color": "#3178c6"
       },
       "languages": [
         {
-          "name": "Python",
-          "color": "#3572A5",
-          "size": 77048,
-          "pct": 100
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 1316937,
+          "pct": 75
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 431353,
+          "pct": 24
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 12243,
+          "pct": 1
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 5033,
+          "pct": 0
         }
       ],
       "topics": [],
-      "commitTotal": 1,
+      "commitTotal": 77,
       "commitsByMonth": {
-        "2026-07": 1
+        "2026-07": 43,
+        "2026-06": 3,
+        "2026-05": 3,
+        "2026-04": 9,
+        "2026-01": 13,
+        "2025-11": 6
       },
-      "firstCommit": "2026-07-07T22:14:01Z",
-      "lastCommit": "2026-07-07T22:14:01Z"
+      "firstCommit": "2025-11-05T02:10:29Z",
+      "lastCommit": "2026-07-25T11:17:50Z"
     },
     {
       "name": "asl-guide",
@@ -293,10 +309,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 493,
+      "diskKb": 577,
       "createdAt": "2026-06-23T22:02:38Z",
-      "pushedAt": "2026-07-07T13:22:32Z",
-      "updatedAt": "2026-07-07T13:23:28Z",
+      "pushedAt": "2026-07-16T04:06:46Z",
+      "updatedAt": "2026-07-16T04:06:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -305,13 +321,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 407491,
-          "pct": 86
+          "size": 433599,
+          "pct": 87
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 28260,
+          "size": 29522,
           "pct": 6
         },
         {
@@ -340,72 +356,49 @@
         }
       ],
       "topics": [],
-      "commitTotal": 11,
+      "commitTotal": 29,
       "commitsByMonth": {
-        "2026-07": 2,
+        "2026-07": 20,
         "2026-06": 9
       },
       "firstCommit": "2026-06-23T22:02:37Z",
-      "lastCommit": "2026-07-07T13:22:29Z"
+      "lastCommit": "2026-07-16T04:06:43Z"
     },
     {
-      "name": "culinary-card",
+      "name": "apartment-search",
       "featured": true,
-      "emoji": "🍳",
-      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/culinary-card",
-      "homepage": "https://culinary-card.vercel.app",
+      "emoji": "🏠",
+      "tagline": "Multi-agent rental finder (Preference / Market / Listing analysts) with live Browserbase discovery and explainable scoring.",
+      "description": "Multi-agent rental finder (Preference/Market/Listing analysts) with live discovery and explainable scoring",
+      "url": "https://github.com/mjbarton712/apartment-search",
+      "homepage": null,
       "private": true,
       "archived": false,
-      "stars": 1,
+      "stars": 0,
       "forks": 0,
-      "diskKb": 52630,
-      "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-07-07T04:27:57Z",
-      "updatedAt": "2026-07-07T04:28:00Z",
+      "diskKb": 24,
+      "createdAt": "2026-07-07T22:14:02Z",
+      "pushedAt": "2026-07-07T22:14:53Z",
+      "updatedAt": "2026-07-07T22:15:15Z",
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": [
         {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 1230185,
-          "pct": 75
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 385504,
-          "pct": 24
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 11816,
-          "pct": 1
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 4186,
-          "pct": 0
+          "name": "Python",
+          "color": "#3572A5",
+          "size": 77048,
+          "pct": 100
         }
       ],
       "topics": [],
-      "commitTotal": 60,
+      "commitTotal": 1,
       "commitsByMonth": {
-        "2026-07": 26,
-        "2026-06": 3,
-        "2026-05": 3,
-        "2026-04": 9,
-        "2026-01": 13,
-        "2025-11": 6
+        "2026-07": 1
       },
-      "firstCommit": "2025-11-05T02:10:29Z",
-      "lastCommit": "2026-07-07T04:27:56Z"
+      "firstCommit": "2026-07-07T22:14:01Z",
+      "lastCommit": "2026-07-07T22:14:01Z"
     },
     {
       "name": "g2-offline-captions",
@@ -598,6 +591,103 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 0,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-07-25T13:01:47Z",
+      "updatedAt": "2026-07-25T13:02:12Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2026-07": 3,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-07-25T13:01:46Z"
+    },
+    {
+      "name": "job-bracket",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
+      "url": "https://github.com/mjbarton712/job-bracket",
+      "homepage": "https://job-bracket.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 67,
+      "createdAt": "2025-12-26T06:04:31Z",
+      "pushedAt": "2026-07-25T07:02:16Z",
+      "updatedAt": "2025-12-26T06:14:37Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 53091,
+          "pct": 96
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1543,
+          "pct": 3
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 559,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-12": 5
+      },
+      "firstCommit": "2025-12-21T20:07:21Z",
+      "lastCommit": "2025-12-26T06:14:10Z"
+    },
+    {
       "name": "ai-engineer-matt",
       "featured": false,
       "emoji": null,
@@ -609,7 +699,7 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 0,
+      "diskKb": 95,
       "createdAt": "2026-07-07T22:12:54Z",
       "pushedAt": "2026-07-07T22:14:10Z",
       "updatedAt": "2026-07-07T22:15:15Z",
@@ -658,7 +748,7 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 0,
+      "diskKb": 9,
       "createdAt": "2026-07-07T22:14:05Z",
       "pushedAt": "2026-07-07T22:14:09Z",
       "updatedAt": "2026-07-07T22:15:16Z",
@@ -706,7 +796,7 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 0,
+      "diskKb": 105,
       "createdAt": "2026-07-07T22:10:24Z",
       "pushedAt": "2026-07-07T22:11:41Z",
       "updatedAt": "2026-07-07T22:15:14Z",
@@ -760,7 +850,7 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 0,
+      "diskKb": 38,
       "createdAt": "2026-07-07T22:10:28Z",
       "pushedAt": "2026-07-07T22:11:38Z",
       "updatedAt": "2026-07-07T22:15:16Z",
@@ -809,7 +899,7 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 0,
+      "diskKb": 1178,
       "createdAt": "2026-07-07T22:10:20Z",
       "pushedAt": "2026-07-07T22:11:02Z",
       "updatedAt": "2026-07-07T22:15:14Z",
@@ -892,54 +982,6 @@
       },
       "firstCommit": "2026-07-06T21:00:52Z",
       "lastCommit": "2026-07-06T21:55:02Z"
-    },
-    {
-      "name": "job-bracket",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
-      "url": "https://github.com/mjbarton712/job-bracket",
-      "homepage": "https://job-bracket.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 66,
-      "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-07-04T03:32:49Z",
-      "updatedAt": "2025-12-26T06:14:37Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 53091,
-          "pct": 96
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1543,
-          "pct": 3
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 559,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-12": 5
-      },
-      "firstCommit": "2025-12-21T20:07:21Z",
-      "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
       "name": "mortgage-rate-checker",
