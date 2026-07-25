@@ -23,6 +23,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # The `secrets` context can't be used in a step `if`, so surface presence
+    # of the PAT as a job-level env var the steps can gate on.
+    env:
+      HAS_SYNC_TOKEN: ${{ secrets.GH_SYNC_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -39,14 +43,14 @@ jobs:
       # so a token-less CI run never overwrites the full dataset with a
       # public-only one.
       - name: Sync from GitHub
-        if: ${{ secrets.GH_SYNC_TOKEN != '' }}
+        if: env.HAS_SYNC_TOKEN == 'true'
         env:
           GH_SYNC_TOKEN: ${{ secrets.GH_SYNC_TOKEN }}
         run: npm run sync
 
       # Persist the refreshed data so the "since last sync" diff works next time.
       - name: Commit refreshed data
-        if: ${{ secrets.GH_SYNC_TOKEN != '' }}
+        if: env.HAS_SYNC_TOKEN == 'true'
         run: |
           git config user.name "portfolio-bot"
           git config user.email "actions@github.com"
