@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:03:49.455Z",
+  "generatedAt": "2026-08-01T07:49:11.444Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,12 +11,12 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 581,
+    "totalCommits": 586,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5045660
+        "size": 5046665
       },
       {
         "name": "JavaScript",
@@ -74,6 +74,8 @@
       ],
       "active": [
         "culinary-card",
+        "mortgage-rate-checker",
+        "ping-autoshop",
         "portfolio",
         "asl-guide",
         "apartment-search",
@@ -84,8 +86,6 @@
         "l-systems",
         "aiewf-2026",
         "g2-offline-captions",
-        "mortgage-rate-checker",
-        "ping-autoshop",
         "rooted-labs-llc",
         "retro-time-machine",
         "ris",
@@ -93,13 +93,13 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 194
+      "commits": 199
     },
     {
       "year": 2025,
       "created": [
-        "culinary-card",
         "job-bracket",
+        "culinary-card",
         "mortgage-rate-checker",
         "test-scala",
         "christmas-nativity-game",
@@ -119,11 +119,11 @@
         "daytrade"
       ],
       "active": [
-        "culinary-card",
-        "portfolio",
         "job-bracket",
+        "culinary-card",
         "mortgage-rate-checker",
         "ping-autoshop",
+        "portfolio",
         "retro-time-machine",
         "test-scala",
         "austin-auto",
@@ -218,13 +218,28 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "job-bracket",
+      "at": "2026-08-01T04:25:10Z"
+    },
+    {
+      "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-07-30T12:45:41Z"
+      "at": "2026-08-01T00:39:16Z"
+    },
+    {
+      "type": "updated",
+      "repo": "mortgage-rate-checker",
+      "at": "2026-08-01T00:35:19Z"
+    },
+    {
+      "type": "updated",
+      "repo": "ping-autoshop",
+      "at": "2026-08-01T00:23:25Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-07-29T07:59:14Z"
+      "at": "2026-07-31T08:03:50Z"
     }
   ],
   "repos": [
@@ -240,10 +255,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 53267,
+      "diskKb": 53272,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-07-30T12:45:41Z",
-      "updatedAt": "2026-07-30T02:29:26Z",
+      "pushedAt": "2026-08-01T00:39:16Z",
+      "updatedAt": "2026-08-01T00:39:18Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -252,7 +267,7 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 1543263,
+          "size": 1544268,
           "pct": 76
         },
         {
@@ -275,8 +290,9 @@
         }
       ],
       "topics": [],
-      "commitTotal": 96,
+      "commitTotal": 98,
       "commitsByMonth": {
+        "2026-08": 2,
         "2026-07": 62,
         "2026-06": 3,
         "2026-05": 3,
@@ -285,7 +301,7 @@
         "2025-11": 6
       },
       "firstCommit": "2025-11-05T02:10:29Z",
-      "lastCommit": "2026-07-30T02:29:21Z"
+      "lastCommit": "2026-08-01T00:39:14Z"
     },
     {
       "name": "asl-guide",
@@ -581,55 +597,6 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 98,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-07-29T07:59:14Z",
-      "updatedAt": "2026-07-29T07:59:49Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 12,
-      "commitsByMonth": {
-        "2026-07": 10,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-07-29T07:59:13Z"
-    },
-    {
       "name": "job-bracket",
       "featured": false,
       "emoji": null,
@@ -643,7 +610,7 @@
       "forks": 0,
       "diskKb": 125,
       "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-07-29T00:05:11Z",
+      "pushedAt": "2026-08-01T04:25:10Z",
       "updatedAt": "2025-12-26T06:14:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -676,6 +643,161 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
+    },
+    {
+      "name": "mortgage-rate-checker",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
+      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 44,
+      "createdAt": "2025-03-23T16:14:14Z",
+      "pushedAt": "2026-08-01T00:35:19Z",
+      "updatedAt": "2026-08-01T00:35:23Z",
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "size": 2103,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 50,
+      "commitsByMonth": {
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 1,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 1,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 4,
+        "2025-03": 30
+      },
+      "firstCommit": "2025-03-23T16:14:14Z",
+      "lastCommit": "2026-08-01T00:35:18Z"
+    },
+    {
+      "name": "ping-autoshop",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Ping autoshop database in supabase to prevent it from pausing",
+      "url": "https://github.com/mjbarton712/ping-autoshop",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 28,
+      "createdAt": "2024-12-24T04:15:46Z",
+      "pushedAt": "2026-08-01T00:23:25Z",
+      "updatedAt": "2026-08-01T00:23:28Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 1808,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 33,
+      "commitsByMonth": {
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 3,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 3,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 2,
+        "2024-12": 11
+      },
+      "firstCommit": "2024-12-24T04:15:47Z",
+      "lastCommit": "2026-08-01T00:23:24Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 99,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-07-31T08:03:50Z",
+      "updatedAt": "2026-07-31T08:04:05Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 13,
+      "commitsByMonth": {
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-07-31T08:03:49Z"
     },
     {
       "name": "ai-engineer-matt",
@@ -972,110 +1094,6 @@
       },
       "firstCommit": "2026-07-06T21:00:52Z",
       "lastCommit": "2026-07-06T21:55:02Z"
-    },
-    {
-      "name": "mortgage-rate-checker",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
-      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 43,
-      "createdAt": "2025-03-23T16:14:14Z",
-      "pushedAt": "2026-07-01T00:51:41Z",
-      "updatedAt": "2026-07-01T00:51:44Z",
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": [
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "size": 2103,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 49,
-      "commitsByMonth": {
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 1,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 1,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 4,
-        "2025-03": 30
-      },
-      "firstCommit": "2025-03-23T16:14:14Z",
-      "lastCommit": "2026-07-01T00:51:40Z"
-    },
-    {
-      "name": "ping-autoshop",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Ping autoshop database in supabase to prevent it from pausing",
-      "url": "https://github.com/mjbarton712/ping-autoshop",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 27,
-      "createdAt": "2024-12-24T04:15:46Z",
-      "pushedAt": "2026-07-01T00:32:46Z",
-      "updatedAt": "2026-07-01T00:32:50Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 1808,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 32,
-      "commitsByMonth": {
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 3,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 3,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 2,
-        "2024-12": 11
-      },
-      "firstCommit": "2024-12-24T04:15:47Z",
-      "lastCommit": "2026-07-01T00:32:46Z"
     },
     {
       "name": "rooted-labs-llc",
