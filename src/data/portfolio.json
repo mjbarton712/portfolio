@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:49:11.444Z",
+  "generatedAt": "2026-08-02T07:50:03.513Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 586,
+    "totalCommits": 592,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5046665
+        "size": 5074326
       },
       {
         "name": "JavaScript",
-        "size": 589059
+        "size": 589154
       },
       {
         "name": "CSS",
@@ -74,9 +74,9 @@
       ],
       "active": [
         "culinary-card",
+        "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
-        "portfolio",
         "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
@@ -93,13 +93,13 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 199
+      "commits": 205
     },
     {
       "year": 2025,
       "created": [
-        "job-bracket",
         "culinary-card",
+        "job-bracket",
         "mortgage-rate-checker",
         "test-scala",
         "christmas-nativity-game",
@@ -119,11 +119,11 @@
         "daytrade"
       ],
       "active": [
-        "job-bracket",
         "culinary-card",
+        "portfolio",
+        "job-bracket",
         "mortgage-rate-checker",
         "ping-autoshop",
-        "portfolio",
         "retro-time-machine",
         "test-scala",
         "austin-auto",
@@ -144,7 +144,7 @@
         "web-alchemy-build",
         "daytrade"
       ],
-      "commits": 203
+      "commits": 200
     },
     {
       "year": 2024,
@@ -218,28 +218,13 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-08-01T04:25:10Z"
-    },
-    {
-      "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-08-01T00:39:16Z"
-    },
-    {
-      "type": "updated",
-      "repo": "mortgage-rate-checker",
-      "at": "2026-08-01T00:35:19Z"
-    },
-    {
-      "type": "updated",
-      "repo": "ping-autoshop",
-      "at": "2026-08-01T00:23:25Z"
+      "at": "2026-08-01T19:46:58Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-07-31T08:03:50Z"
+      "at": "2026-08-01T07:49:12Z"
     }
   ],
   "repos": [
@@ -255,10 +240,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 53272,
+      "diskKb": 53294,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-08-01T00:39:16Z",
-      "updatedAt": "2026-08-01T00:39:18Z",
+      "pushedAt": "2026-08-01T19:46:58Z",
+      "updatedAt": "2026-08-01T19:47:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -267,13 +252,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 1544268,
-          "pct": 76
+          "size": 1571929,
+          "pct": 77
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 462143,
+          "size": 462238,
           "pct": 23
         },
         {
@@ -290,18 +275,18 @@
         }
       ],
       "topics": [],
-      "commitTotal": 98,
+      "commitTotal": 103,
       "commitsByMonth": {
-        "2026-08": 2,
+        "2026-08": 7,
         "2026-07": 62,
         "2026-06": 3,
         "2026-05": 3,
         "2026-04": 9,
         "2026-01": 13,
-        "2025-11": 6
+        "2025-11": 3
       },
-      "firstCommit": "2025-11-05T02:10:29Z",
-      "lastCommit": "2026-08-01T00:39:14Z"
+      "firstCommit": "2025-11-10T03:06:05Z",
+      "lastCommit": "2026-08-01T19:46:57Z"
     },
     {
       "name": "asl-guide",
@@ -597,6 +582,56 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 100,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-08-01T07:49:12Z",
+      "updatedAt": "2026-08-01T07:49:18Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 14,
+      "commitsByMonth": {
+        "2026-08": 1,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-08-01T07:49:11Z"
+    },
+    {
       "name": "job-bracket",
       "featured": false,
       "emoji": null,
@@ -749,55 +784,6 @@
       },
       "firstCommit": "2024-12-24T04:15:47Z",
       "lastCommit": "2026-08-01T00:23:24Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 99,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-07-31T08:03:50Z",
-      "updatedAt": "2026-07-31T08:04:05Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 13,
-      "commitsByMonth": {
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-07-31T08:03:49Z"
     },
     {
       "name": "ai-engineer-matt",
