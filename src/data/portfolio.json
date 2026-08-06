@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T07:57:31.070Z",
+  "generatedAt": "2026-08-06T09:45:07.999Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 600,
+    "totalCommits": 601,
     "firstYear": 2019,
     "languages": [
       {
@@ -73,8 +73,8 @@
         "simple-strands"
       ],
       "active": [
-        "culinary-card",
         "portfolio",
+        "culinary-card",
         "mortgage-rate-checker",
         "ping-autoshop",
         "asl-guide",
@@ -93,7 +93,7 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 211
+      "commits": 212
     },
     {
       "year": 2025,
@@ -119,8 +119,8 @@
         "daytrade"
       ],
       "active": [
-        "job-bracket",
         "portfolio",
+        "job-bracket",
         "mortgage-rate-checker",
         "ping-autoshop",
         "retro-time-machine",
@@ -217,18 +217,8 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "culinary-card",
-      "at": "2026-08-05T01:56:04Z"
-    },
-    {
-      "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-08-05T00:01:34Z"
-    },
-    {
-      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-08-04T07:56:54Z"
+      "at": "2026-08-05T07:57:32Z"
     }
   ],
   "repos": [
@@ -585,6 +575,56 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 104,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-08-05T07:57:32Z",
+      "updatedAt": "2026-08-05T07:58:28Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 18,
+      "commitsByMonth": {
+        "2026-08": 5,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-08-05T07:57:31Z"
+    },
+    {
       "name": "job-bracket",
       "featured": false,
       "emoji": null,
@@ -631,56 +671,6 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 103,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-08-04T07:56:54Z",
-      "updatedAt": "2026-08-04T07:58:59Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 17,
-      "commitsByMonth": {
-        "2026-08": 4,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-08-04T07:56:53Z"
     },
     {
       "name": "mortgage-rate-checker",
