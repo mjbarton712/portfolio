@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:56:46.039Z",
+  "generatedAt": "2026-08-10T08:45:47.516Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 604,
+    "totalCommits": 605,
     "firstYear": 2019,
     "languages": [
       {
@@ -93,7 +93,7 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 215
+      "commits": 216
     },
     {
       "year": 2025,
@@ -119,8 +119,8 @@
         "daytrade"
       ],
       "active": [
-        "job-bracket",
         "portfolio",
+        "job-bracket",
         "mortgage-rate-checker",
         "ping-autoshop",
         "retro-time-machine",
@@ -217,13 +217,8 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-08-08T15:02:46Z"
-    },
-    {
-      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-08-08T07:54:05Z"
+      "at": "2026-08-09T07:56:46Z"
     }
   ],
   "repos": [
@@ -580,6 +575,56 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 108,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-08-09T07:56:46Z",
+      "updatedAt": "2026-08-09T07:56:50Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 22,
+      "commitsByMonth": {
+        "2026-08": 9,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-08-09T07:56:46Z"
+    },
+    {
       "name": "job-bracket",
       "featured": false,
       "emoji": null,
@@ -626,56 +671,6 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 107,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-08-08T07:54:05Z",
-      "updatedAt": "2026-08-08T07:54:33Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 21,
-      "commitsByMonth": {
-        "2026-08": 8,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-08-08T07:54:04Z"
     },
     {
       "name": "mortgage-rate-checker",
@@ -887,7 +882,7 @@
       "tagline": null,
       "description": "Interactive garden planner for bed layouts, companion pairings, and plant spacing",
       "url": "https://github.com/mjbarton712/garden-plot",
-      "homepage": null,
+      "homepage": "https://garden-plot-swart.vercel.app",
       "private": true,
       "archived": false,
       "stars": 0,
@@ -895,7 +890,7 @@
       "diskKb": 105,
       "createdAt": "2026-07-07T22:10:24Z",
       "pushedAt": "2026-07-07T22:11:41Z",
-      "updatedAt": "2026-07-07T22:15:14Z",
+      "updatedAt": "2026-08-09T18:40:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
