@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:20:11.301Z",
+  "generatedAt": "2026-08-19T07:20:53.354Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 615,
+    "totalCommits": 619,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5246283
+        "size": 5276039
       },
       {
         "name": "JavaScript",
-        "size": 602631
+        "size": 614841
       },
       {
         "name": "CSS",
@@ -73,8 +73,8 @@
         "simple-strands"
       ],
       "active": [
-        "portfolio",
         "culinary-card",
+        "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
         "asl-guide",
@@ -93,13 +93,13 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 224
+      "commits": 225
     },
     {
       "year": 2025,
       "created": [
-        "job-bracket",
         "culinary-card",
+        "job-bracket",
         "mortgage-rate-checker",
         "test-scala",
         "christmas-nativity-game",
@@ -217,8 +217,13 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-08-19T04:09:59Z"
+    },
+    {
+      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-08-17T07:26:20Z"
+      "at": "2026-08-18T07:20:13Z"
     }
   ],
   "repos": [
@@ -234,10 +239,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 53658,
+      "diskKb": 53807,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-08-12T23:43:33Z",
-      "updatedAt": "2026-08-12T23:05:22Z",
+      "pushedAt": "2026-08-19T04:09:59Z",
+      "updatedAt": "2026-08-19T04:11:44Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -246,13 +251,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 1743886,
+          "size": 1773642,
           "pct": 78
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 475715,
+          "size": 487925,
           "pct": 21
         },
         {
@@ -269,17 +274,17 @@
         }
       ],
       "topics": [],
-      "commitTotal": 110,
+      "commitTotal": 113,
       "commitsByMonth": {
-        "2026-08": 14,
+        "2026-08": 17,
         "2026-07": 62,
         "2026-06": 3,
         "2026-05": 3,
         "2026-04": 9,
-        "2026-01": 9
+        "2026-01": 6
       },
-      "firstCommit": "2026-01-11T02:15:53Z",
-      "lastCommit": "2026-08-12T23:05:17Z"
+      "firstCommit": "2026-01-11T07:02:49Z",
+      "lastCommit": "2026-08-19T04:09:57Z"
     },
     {
       "name": "asl-guide",
@@ -586,10 +591,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 116,
+      "diskKb": 117,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-08-17T07:26:20Z",
-      "updatedAt": "2026-08-17T07:26:58Z",
+      "pushedAt": "2026-08-18T07:20:13Z",
+      "updatedAt": "2026-08-18T07:22:21Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -615,14 +620,14 @@
         }
       ],
       "topics": [],
-      "commitTotal": 30,
+      "commitTotal": 31,
       "commitsByMonth": {
-        "2026-08": 17,
+        "2026-08": 18,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-08-17T07:26:19Z"
+      "lastCommit": "2026-08-18T07:20:11Z"
     },
     {
       "name": "job-bracket",
