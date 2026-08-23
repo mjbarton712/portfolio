@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:16:46.654Z",
+  "generatedAt": "2026-08-23T07:18:13.872Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,12 +11,12 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 623,
+    "totalCommits": 625,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5284145
+        "size": 5283118
       },
       {
         "name": "JavaScript",
@@ -73,8 +73,8 @@
         "simple-strands"
       ],
       "active": [
-        "portfolio",
         "culinary-card",
+        "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
         "asl-guide",
@@ -93,7 +93,7 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 227
+      "commits": 228
     },
     {
       "year": 2025,
@@ -119,8 +119,8 @@
         "daytrade"
       ],
       "active": [
-        "portfolio",
         "job-bracket",
+        "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
         "retro-time-machine",
@@ -217,8 +217,18 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-08-22T19:24:08Z"
+    },
+    {
+      "type": "updated",
+      "repo": "job-bracket",
+      "at": "2026-08-22T08:05:36Z"
+    },
+    {
+      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-08-21T07:22:35Z"
+      "at": "2026-08-22T07:16:47Z"
     }
   ],
   "repos": [
@@ -234,10 +244,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 53878,
+      "diskKb": 53358,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-08-20T03:04:31Z",
-      "updatedAt": "2026-08-20T03:05:28Z",
+      "pushedAt": "2026-08-22T19:24:08Z",
+      "updatedAt": "2026-08-22T19:24:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -246,7 +256,7 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 1781748,
+          "size": 1780721,
           "pct": 78
         },
         {
@@ -269,17 +279,17 @@
         }
       ],
       "topics": [],
-      "commitTotal": 115,
+      "commitTotal": 116,
       "commitsByMonth": {
-        "2026-08": 19,
+        "2026-08": 20,
         "2026-07": 62,
         "2026-06": 3,
         "2026-05": 3,
         "2026-04": 9,
-        "2026-01": 4
+        "2026-01": 3
       },
-      "firstCommit": "2026-01-12T00:31:27Z",
-      "lastCommit": "2026-08-20T03:04:29Z"
+      "firstCommit": "2026-01-12T00:55:55Z",
+      "lastCommit": "2026-08-22T19:24:03Z"
     },
     {
       "name": "asl-guide",
@@ -575,56 +585,6 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 119,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-08-21T07:22:35Z",
-      "updatedAt": "2026-08-21T07:23:15Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 33,
-      "commitsByMonth": {
-        "2026-08": 20,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-08-21T07:22:34Z"
-    },
-    {
       "name": "job-bracket",
       "featured": false,
       "emoji": null,
@@ -638,7 +598,7 @@
       "forks": 0,
       "diskKb": 129,
       "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-08-15T03:42:04Z",
+      "pushedAt": "2026-08-22T08:05:36Z",
       "updatedAt": "2025-12-26T06:14:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -671,6 +631,56 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 120,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-08-22T07:16:47Z",
+      "updatedAt": "2026-08-22T07:17:58Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 34,
+      "commitsByMonth": {
+        "2026-08": 21,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-08-22T07:16:46Z"
     },
     {
       "name": "mortgage-rate-checker",
