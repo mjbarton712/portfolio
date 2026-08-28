@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T10:25:04.923Z",
+  "generatedAt": "2026-08-28T10:39:34.917Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 629,
+    "totalCommits": 631,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5283118
+        "size": 5291203
       },
       {
         "name": "JavaScript",
-        "size": 614841
+        "size": 625149
       },
       {
         "name": "CSS",
@@ -73,9 +73,9 @@
         "simple-strands"
       ],
       "active": [
+        "culinary-card",
         "portfolio",
         "asl-guide",
-        "culinary-card",
         "mortgage-rate-checker",
         "ping-autoshop",
         "apartment-search",
@@ -93,7 +93,7 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 232
+      "commits": 233
     },
     {
       "year": 2025,
@@ -217,11 +217,75 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-08-28T05:20:47Z"
+    },
+    {
+      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-08-26T07:22:42Z"
+      "at": "2026-08-27T10:25:06Z"
     }
   ],
   "repos": [
+    {
+      "name": "culinary-card",
+      "featured": true,
+      "emoji": "🍳",
+      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/culinary-card",
+      "homepage": "https://culinary-card.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 53369,
+      "createdAt": "2025-11-05T02:14:23Z",
+      "pushedAt": "2026-08-28T05:20:47Z",
+      "updatedAt": "2026-08-28T05:20:50Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 1788806,
+          "pct": 78
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 498233,
+          "pct": 22
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 12543,
+          "pct": 1
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 5033,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 117,
+      "commitsByMonth": {
+        "2026-08": 21,
+        "2026-07": 62,
+        "2026-06": 3,
+        "2026-05": 3,
+        "2026-04": 9,
+        "2026-01": 2
+      },
+      "firstCommit": "2026-01-18T05:28:58Z",
+      "lastCommit": "2026-08-28T05:20:45Z"
+    },
     {
       "name": "asl-guide",
       "featured": true,
@@ -288,65 +352,6 @@
       },
       "firstCommit": "2026-06-23T22:02:37Z",
       "lastCommit": "2026-07-16T04:06:43Z"
-    },
-    {
-      "name": "culinary-card",
-      "featured": true,
-      "emoji": "🍳",
-      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/culinary-card",
-      "homepage": "https://culinary-card.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 53358,
-      "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-08-22T19:24:08Z",
-      "updatedAt": "2026-08-22T19:24:41Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 1780721,
-          "pct": 78
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 487925,
-          "pct": 21
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 12543,
-          "pct": 1
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 5033,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 116,
-      "commitsByMonth": {
-        "2026-08": 20,
-        "2026-07": 62,
-        "2026-06": 3,
-        "2026-05": 3,
-        "2026-04": 9,
-        "2026-01": 3
-      },
-      "firstCommit": "2026-01-12T00:55:55Z",
-      "lastCommit": "2026-08-22T19:24:03Z"
     },
     {
       "name": "apartment-search",
@@ -588,8 +593,8 @@
       "forks": 0,
       "diskKb": 124,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-08-26T07:22:42Z",
-      "updatedAt": "2026-08-26T07:25:33Z",
+      "pushedAt": "2026-08-27T10:25:06Z",
+      "updatedAt": "2026-08-27T10:34:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -615,14 +620,14 @@
         }
       ],
       "topics": [],
-      "commitTotal": 38,
+      "commitTotal": 39,
       "commitsByMonth": {
-        "2026-08": 25,
+        "2026-08": 26,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-08-26T07:22:40Z"
+      "lastCommit": "2026-08-27T10:25:04Z"
     },
     {
       "name": "job-bracket",
