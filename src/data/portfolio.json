@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T07:26:50.588Z",
+  "generatedAt": "2026-09-01T07:21:56.720Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 635,
+    "totalCommits": 638,
     "firstYear": 2019,
     "languages": [
       {
@@ -73,11 +73,11 @@
         "simple-strands"
       ],
       "active": [
-        "culinary-card",
-        "portfolio",
-        "asl-guide",
         "mortgage-rate-checker",
         "ping-autoshop",
+        "portfolio",
+        "culinary-card",
+        "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
         "heidi-tutoring",
@@ -93,14 +93,14 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 236
+      "commits": 239
     },
     {
       "year": 2025,
       "created": [
-        "culinary-card",
-        "job-bracket",
         "mortgage-rate-checker",
+        "job-bracket",
+        "culinary-card",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -119,10 +119,10 @@
         "daytrade"
       ],
       "active": [
-        "portfolio",
-        "job-bracket",
         "mortgage-rate-checker",
+        "job-bracket",
         "ping-autoshop",
+        "portfolio",
         "retro-time-machine",
         "test-scala",
         "austin-auto",
@@ -217,13 +217,23 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "culinary-card",
-      "at": "2026-08-31T01:35:24Z"
+      "repo": "mortgage-rate-checker",
+      "at": "2026-09-01T00:34:38Z"
+    },
+    {
+      "type": "updated",
+      "repo": "job-bracket",
+      "at": "2026-09-01T00:14:28Z"
+    },
+    {
+      "type": "updated",
+      "repo": "ping-autoshop",
+      "at": "2026-09-01T00:14:00Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-08-30T07:18:31Z"
+      "at": "2026-08-31T07:26:51Z"
     }
   ],
   "repos": [
@@ -580,54 +590,58 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
-      "name": "portfolio",
+      "name": "mortgage-rate-checker",
       "featured": false,
       "emoji": null,
       "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
+      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
+      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
       "homepage": null,
       "private": false,
       "archived": false,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
-      "diskKb": 127,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-08-30T07:18:31Z",
-      "updatedAt": "2026-08-30T07:18:50Z",
+      "diskKb": 44,
+      "createdAt": "2025-03-23T16:14:14Z",
+      "pushedAt": "2026-09-01T00:34:38Z",
+      "updatedAt": "2026-09-01T00:34:42Z",
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": [
         {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
+          "name": "Python",
+          "color": "#3572A5",
+          "size": 2103,
+          "pct": 100
         }
       ],
       "topics": [],
-      "commitTotal": 42,
+      "commitTotal": 51,
       "commitsByMonth": {
-        "2026-08": 29,
-        "2026-07": 11,
-        "2025-06": 2
+        "2026-09": 1,
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 1,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 1,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 4,
+        "2025-03": 30
       },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-08-30T07:18:30Z"
+      "firstCommit": "2025-03-23T16:14:14Z",
+      "lastCommit": "2026-09-01T00:34:37Z"
     },
     {
       "name": "job-bracket",
@@ -643,7 +657,7 @@
       "forks": 0,
       "diskKb": 129,
       "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-08-29T07:36:46Z",
+      "pushedAt": "2026-09-01T00:14:28Z",
       "updatedAt": "2025-12-26T06:14:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -678,59 +692,6 @@
       "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
-      "name": "mortgage-rate-checker",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
-      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 44,
-      "createdAt": "2025-03-23T16:14:14Z",
-      "pushedAt": "2026-08-01T00:35:19Z",
-      "updatedAt": "2026-08-01T00:35:23Z",
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": [
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "size": 2103,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 50,
-      "commitsByMonth": {
-        "2026-08": 1,
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 1,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 1,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 4,
-        "2025-03": 30
-      },
-      "firstCommit": "2025-03-23T16:14:14Z",
-      "lastCommit": "2026-08-01T00:35:18Z"
-    },
-    {
       "name": "ping-autoshop",
       "featured": false,
       "emoji": null,
@@ -744,8 +705,8 @@
       "forks": 0,
       "diskKb": 28,
       "createdAt": "2024-12-24T04:15:46Z",
-      "pushedAt": "2026-08-01T00:23:25Z",
-      "updatedAt": "2026-08-01T00:23:28Z",
+      "pushedAt": "2026-09-01T00:14:00Z",
+      "updatedAt": "2026-09-01T00:15:04Z",
       "primaryLanguage": {
         "name": "JavaScript",
         "color": "#f1e05a"
@@ -759,8 +720,9 @@
         }
       ],
       "topics": [],
-      "commitTotal": 33,
+      "commitTotal": 34,
       "commitsByMonth": {
+        "2026-09": 1,
         "2026-08": 1,
         "2026-07": 1,
         "2026-06": 1,
@@ -781,7 +743,57 @@
         "2024-12": 11
       },
       "firstCommit": "2024-12-24T04:15:47Z",
-      "lastCommit": "2026-08-01T00:23:24Z"
+      "lastCommit": "2026-09-01T00:13:59Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 128,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-08-31T07:26:51Z",
+      "updatedAt": "2026-08-31T07:28:30Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 43,
+      "commitsByMonth": {
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-08-31T07:26:50Z"
     },
     {
       "name": "ai-engineer-matt",
