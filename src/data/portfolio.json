@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:18:04.487Z",
+  "generatedAt": "2026-09-06T07:18:33.631Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 642,
+    "totalCommits": 643,
     "firstYear": 2019,
     "languages": [
       {
@@ -73,10 +73,10 @@
         "simple-strands"
       ],
       "active": [
+        "culinary-card",
         "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
-        "culinary-card",
         "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
@@ -93,14 +93,14 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 243
+      "commits": 244
     },
     {
       "year": 2025,
       "created": [
-        "mortgage-rate-checker",
         "job-bracket",
         "culinary-card",
+        "mortgage-rate-checker",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -119,9 +119,9 @@
         "daytrade"
       ],
       "active": [
+        "job-bracket",
         "portfolio",
         "mortgage-rate-checker",
-        "job-bracket",
         "ping-autoshop",
         "retro-time-machine",
         "test-scala",
@@ -217,8 +217,18 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "job-bracket",
+      "at": "2026-09-05T19:39:40Z"
+    },
+    {
+      "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-09-05T12:14:29Z"
+    },
+    {
+      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-09-04T07:27:38Z"
+      "at": "2026-09-05T07:18:05Z"
     }
   ],
   "repos": [
@@ -234,9 +244,9 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 53380,
+      "diskKb": 53387,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-08-31T01:35:24Z",
+      "pushedAt": "2026-09-05T12:14:29Z",
       "updatedAt": "2026-08-31T01:35:45Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -575,6 +585,54 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "job-bracket",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
+      "url": "https://github.com/mjbarton712/job-bracket",
+      "homepage": "https://job-bracket.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 137,
+      "createdAt": "2025-12-26T06:04:31Z",
+      "pushedAt": "2026-09-05T19:39:40Z",
+      "updatedAt": "2025-12-26T06:14:37Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 53091,
+          "pct": 96
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1543,
+          "pct": 3
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 559,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-12": 5
+      },
+      "firstCommit": "2025-12-21T20:07:21Z",
+      "lastCommit": "2025-12-26T06:14:10Z"
+    },
+    {
       "name": "portfolio",
       "featured": false,
       "emoji": null,
@@ -586,10 +644,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 132,
+      "diskKb": 133,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-09-04T07:27:38Z",
-      "updatedAt": "2026-09-04T07:28:15Z",
+      "pushedAt": "2026-09-05T07:18:05Z",
+      "updatedAt": "2026-09-05T07:18:09Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -615,15 +673,15 @@
         }
       ],
       "topics": [],
-      "commitTotal": 47,
+      "commitTotal": 48,
       "commitsByMonth": {
-        "2026-09": 4,
+        "2026-09": 5,
         "2026-08": 30,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-09-04T07:27:37Z"
+      "lastCommit": "2026-09-05T07:18:04Z"
     },
     {
       "name": "mortgage-rate-checker",
@@ -678,54 +736,6 @@
       },
       "firstCommit": "2025-03-23T16:14:14Z",
       "lastCommit": "2026-09-01T00:34:37Z"
-    },
-    {
-      "name": "job-bracket",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
-      "url": "https://github.com/mjbarton712/job-bracket",
-      "homepage": "https://job-bracket.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 129,
-      "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-09-01T00:14:28Z",
-      "updatedAt": "2025-12-26T06:14:37Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 53091,
-          "pct": 96
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1543,
-          "pct": 3
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 559,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-12": 5
-      },
-      "firstCommit": "2025-12-21T20:07:21Z",
-      "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
       "name": "ping-autoshop",
