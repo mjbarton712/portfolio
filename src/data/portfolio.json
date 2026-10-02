@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:27:55.849Z",
+  "generatedAt": "2026-10-02T13:46:28.712Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 697,
+    "totalCommits": 700,
     "firstYear": 2019,
     "languages": [
       {
@@ -73,10 +73,10 @@
         "simple-strands"
       ],
       "active": [
-        "portfolio",
-        "culinary-card",
         "mortgage-rate-checker",
         "ping-autoshop",
+        "portfolio",
+        "culinary-card",
         "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
@@ -93,14 +93,14 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 268
+      "commits": 271
     },
     {
       "year": 2025,
       "created": [
+        "mortgage-rate-checker",
         "culinary-card",
         "job-bracket",
-        "mortgage-rate-checker",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -119,10 +119,10 @@
         "daytrade"
       ],
       "active": [
-        "portfolio",
-        "job-bracket",
         "mortgage-rate-checker",
         "ping-autoshop",
+        "portfolio",
+        "job-bracket",
         "retro-time-machine",
         "test-scala",
         "austin-auto",
@@ -217,8 +217,18 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "mortgage-rate-checker",
+      "at": "2026-10-01T00:36:10Z"
+    },
+    {
+      "type": "updated",
+      "repo": "ping-autoshop",
+      "at": "2026-10-01T00:14:21Z"
+    },
+    {
+      "type": "updated",
       "repo": "portfolio",
-      "at": "2026-09-29T07:26:40Z"
+      "at": "2026-09-30T07:27:56Z"
     }
   ],
   "repos": [
@@ -572,6 +582,116 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "mortgage-rate-checker",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
+      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 44,
+      "createdAt": "2025-03-23T16:14:14Z",
+      "pushedAt": "2026-10-01T00:36:10Z",
+      "updatedAt": "2026-10-01T00:36:14Z",
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "size": 2103,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 52,
+      "commitsByMonth": {
+        "2026-10": 1,
+        "2026-09": 1,
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 1,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 1,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 4,
+        "2025-03": 30
+      },
+      "firstCommit": "2025-03-23T16:14:14Z",
+      "lastCommit": "2026-10-01T00:36:09Z"
+    },
+    {
+      "name": "ping-autoshop",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Ping autoshop database in supabase to prevent it from pausing",
+      "url": "https://github.com/mjbarton712/ping-autoshop",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 28,
+      "createdAt": "2024-12-24T04:15:46Z",
+      "pushedAt": "2026-10-01T00:14:21Z",
+      "updatedAt": "2026-10-01T00:14:25Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 1808,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 35,
+      "commitsByMonth": {
+        "2026-10": 1,
+        "2026-09": 1,
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 3,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 3,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 2,
+        "2024-12": 11
+      },
+      "firstCommit": "2024-12-24T04:15:47Z",
+      "lastCommit": "2026-10-01T00:14:20Z"
+    },
+    {
       "name": "portfolio",
       "featured": false,
       "emoji": null,
@@ -583,10 +703,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 142,
+      "diskKb": 143,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-09-29T07:26:40Z",
-      "updatedAt": "2026-09-29T07:26:44Z",
+      "pushedAt": "2026-09-30T07:27:56Z",
+      "updatedAt": "2026-09-30T07:28:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -612,15 +732,15 @@
         }
       ],
       "topics": [],
-      "commitTotal": 72,
+      "commitTotal": 73,
       "commitsByMonth": {
-        "2026-09": 29,
+        "2026-09": 30,
         "2026-08": 30,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-09-29T07:26:39Z"
+      "lastCommit": "2026-09-30T07:27:55Z"
     },
     {
       "name": "job-bracket",
@@ -669,114 +789,6 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
-    },
-    {
-      "name": "mortgage-rate-checker",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
-      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 44,
-      "createdAt": "2025-03-23T16:14:14Z",
-      "pushedAt": "2026-09-01T00:34:38Z",
-      "updatedAt": "2026-09-01T00:34:42Z",
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": [
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "size": 2103,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 51,
-      "commitsByMonth": {
-        "2026-09": 1,
-        "2026-08": 1,
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 1,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 1,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 4,
-        "2025-03": 30
-      },
-      "firstCommit": "2025-03-23T16:14:14Z",
-      "lastCommit": "2026-09-01T00:34:37Z"
-    },
-    {
-      "name": "ping-autoshop",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Ping autoshop database in supabase to prevent it from pausing",
-      "url": "https://github.com/mjbarton712/ping-autoshop",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 28,
-      "createdAt": "2024-12-24T04:15:46Z",
-      "pushedAt": "2026-09-01T00:14:00Z",
-      "updatedAt": "2026-09-01T00:15:04Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 1808,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 34,
-      "commitsByMonth": {
-        "2026-09": 1,
-        "2026-08": 1,
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 3,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 3,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 2,
-        "2024-12": 11
-      },
-      "firstCommit": "2024-12-24T04:15:47Z",
-      "lastCommit": "2026-09-01T00:13:59Z"
     },
     {
       "name": "ai-engineer-matt",
