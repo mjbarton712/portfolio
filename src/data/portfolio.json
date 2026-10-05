@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T13:08:25.983Z",
+  "generatedAt": "2026-10-05T15:50:52.176Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 709,
+    "totalCommits": 732,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5441077
+        "size": 5462220
       },
       {
         "name": "JavaScript",
-        "size": 821417
+        "size": 867481
       },
       {
         "name": "CSS",
@@ -28,7 +28,7 @@
       },
       {
         "name": "HTML",
-        "size": 199428
+        "size": 199577
       },
       {
         "name": "Python",
@@ -74,8 +74,8 @@
       ],
       "active": [
         "culinary-card",
-        "portfolio",
         "mortgage-rate-checker",
+        "portfolio",
         "ping-autoshop",
         "asl-guide",
         "apartment-search",
@@ -93,14 +93,17 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 273
+      "commits": 274
     },
     {
       "year": 2025,
       "created": [
         "culinary-card",
-        "job-bracket",
         "mortgage-rate-checker",
+        "breadswater-threads-bloom",
+        "web-alchemy-build",
+        "chatleaf-cache",
+        "job-bracket",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -109,19 +112,20 @@
         "ptl-soccer-unleashed",
         "yellowfield",
         "domingoh",
-        "chatleaf-cache",
         "trueframe-golden-canvas",
         "trueframe-sm",
         "trueframe-yu",
         "komiori-landing-spark",
-        "breadswater-threads-bloom",
-        "web-alchemy-build",
         "daytrade"
       ],
       "active": [
+        "mortgage-rate-checker",
+        "codex",
+        "breadswater-threads-bloom",
+        "web-alchemy-build",
+        "chatleaf-cache",
         "portfolio",
         "job-bracket",
-        "mortgage-rate-checker",
         "ping-autoshop",
         "retro-time-machine",
         "test-scala",
@@ -133,14 +137,10 @@
         "ptl-soccer-unleashed",
         "yellowfield",
         "domingoh",
-        "codex",
-        "chatleaf-cache",
         "trueframe-golden-canvas",
         "trueframe-sm",
         "trueframe-yu",
         "komiori-landing-spark",
-        "breadswater-threads-bloom",
-        "web-alchemy-build",
         "daytrade"
       ],
       "commits": 197
@@ -152,9 +152,9 @@
         "austin-auto"
       ],
       "active": [
+        "codex",
         "ping-autoshop",
-        "austin-auto",
-        "codex"
+        "austin-auto"
       ],
       "commits": 59
     },
@@ -218,12 +218,37 @@
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-04T05:12:34Z"
+      "at": "2026-10-05T15:46:28Z"
+    },
+    {
+      "type": "updated",
+      "repo": "mortgage-rate-checker",
+      "at": "2026-10-05T00:19:46Z"
+    },
+    {
+      "type": "updated",
+      "repo": "codex",
+      "at": "2026-10-05T00:01:59Z"
+    },
+    {
+      "type": "updated",
+      "repo": "breadswater-threads-bloom",
+      "at": "2026-10-04T23:52:04Z"
+    },
+    {
+      "type": "updated",
+      "repo": "web-alchemy-build",
+      "at": "2026-10-04T19:32:46Z"
+    },
+    {
+      "type": "updated",
+      "repo": "chatleaf-cache",
+      "at": "2026-10-04T18:50:06Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-03T12:25:23Z"
+      "at": "2026-10-04T13:08:26Z"
     }
   ],
   "repos": [
@@ -239,10 +264,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 82894,
+      "diskKb": 73226,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-04T05:12:34Z",
-      "updatedAt": "2026-10-04T05:12:38Z",
+      "pushedAt": "2026-10-05T15:46:28Z",
+      "updatedAt": "2026-10-05T15:46:30Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -251,14 +276,14 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 1938680,
-          "pct": 73
+          "size": 1959823,
+          "pct": 72
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 694501,
-          "pct": 26
+          "size": 740565,
+          "pct": 27
         },
         {
           "name": "CSS",
@@ -269,20 +294,20 @@
         {
           "name": "HTML",
           "color": "#e34c26",
-          "size": 5033,
+          "size": 5182,
           "pct": 0
         }
       ],
       "topics": [],
-      "commitTotal": 155,
+      "commitTotal": 177,
       "commitsByMonth": {
-        "2026-10": 7,
+        "2026-10": 29,
         "2026-09": 30,
         "2026-08": 22,
-        "2026-07": 41
+        "2026-07": 19
       },
-      "firstCommit": "2026-07-06T00:02:55Z",
-      "lastCommit": "2026-10-04T05:12:34Z"
+      "firstCommit": "2026-07-25T13:20:19Z",
+      "lastCommit": "2026-10-05T15:46:25Z"
     },
     {
       "name": "asl-guide",
@@ -578,6 +603,284 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "mortgage-rate-checker",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
+      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 46,
+      "createdAt": "2025-03-23T16:14:14Z",
+      "pushedAt": "2026-10-05T00:19:46Z",
+      "updatedAt": "2026-10-01T00:36:14Z",
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "size": 2103,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 52,
+      "commitsByMonth": {
+        "2026-10": 1,
+        "2026-09": 1,
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 1,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 1,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 4,
+        "2025-03": 30
+      },
+      "firstCommit": "2025-03-23T16:14:14Z",
+      "lastCommit": "2026-10-01T00:36:09Z"
+    },
+    {
+      "name": "codex",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Integration with ChatGPT to assist with coding",
+      "url": "https://github.com/mjbarton712/codex",
+      "homepage": "https://codex-haven.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 139,
+      "createdAt": "2023-02-22T02:31:28Z",
+      "pushedAt": "2026-10-05T00:01:59Z",
+      "updatedAt": "2025-07-02T02:10:53Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 10102,
+          "pct": 55
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 6603,
+          "pct": 36
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1529,
+          "pct": 8
+        }
+      ],
+      "topics": [],
+      "commitTotal": 79,
+      "commitsByMonth": {
+        "2025-07": 5,
+        "2024-07": 3,
+        "2024-06": 3,
+        "2024-05": 2,
+        "2024-02": 2,
+        "2024-01": 10,
+        "2023-12": 16,
+        "2023-11": 14,
+        "2023-10": 3,
+        "2023-09": 2,
+        "2023-08": 3,
+        "2023-05": 1,
+        "2023-03": 9,
+        "2023-02": 6
+      },
+      "firstCommit": "2023-02-22T02:31:12Z",
+      "lastCommit": "2025-07-02T02:10:47Z"
+    },
+    {
+      "name": "breadswater-threads-bloom",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/breadswater-threads-bloom",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 217,
+      "createdAt": "2025-05-17T04:11:03Z",
+      "pushedAt": "2026-10-04T23:52:04Z",
+      "updatedAt": "2025-05-19T04:08:43Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 255319,
+          "pct": 98
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2798,
+          "pct": 1
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1328,
+          "pct": 1
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 6,
+      "commitsByMonth": {
+        "2025-05": 6
+      },
+      "firstCommit": "2025-05-17T03:29:59Z",
+      "lastCommit": "2025-05-19T04:08:39Z"
+    },
+    {
+      "name": "web-alchemy-build",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/web-alchemy-build",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 3762,
+      "createdAt": "2025-06-02T03:16:56Z",
+      "pushedAt": "2026-10-04T19:32:46Z",
+      "updatedAt": "2025-06-08T21:36:20Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 185420,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3724,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 673,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 21,
+      "commitsByMonth": {
+        "2025-06": 21
+      },
+      "firstCommit": "2025-06-02T03:13:53Z",
+      "lastCommit": "2025-06-08T21:36:15Z"
+    },
+    {
+      "name": "chatleaf-cache",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/chatleaf-cache",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 195,
+      "createdAt": "2025-03-28T19:04:34Z",
+      "pushedAt": "2026-10-04T18:50:06Z",
+      "updatedAt": "2025-03-28T19:12:27Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 181949,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3304,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 636,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-03": 5
+      },
+      "firstCommit": "2025-03-28T16:34:03Z",
+      "lastCommit": "2025-03-28T19:12:23Z"
+    },
+    {
       "name": "portfolio",
       "featured": false,
       "emoji": null,
@@ -589,10 +892,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 145,
+      "diskKb": 146,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-03T12:25:23Z",
-      "updatedAt": "2026-10-03T12:25:26Z",
+      "pushedAt": "2026-10-04T13:08:26Z",
+      "updatedAt": "2026-10-04T13:08:30Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -618,16 +921,16 @@
         }
       ],
       "topics": [],
-      "commitTotal": 75,
+      "commitTotal": 76,
       "commitsByMonth": {
-        "2026-10": 2,
+        "2026-10": 3,
         "2026-09": 30,
         "2026-08": 30,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-03T12:25:22Z"
+      "lastCommit": "2026-10-04T13:08:26Z"
     },
     {
       "name": "job-bracket",
@@ -676,61 +979,6 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
-    },
-    {
-      "name": "mortgage-rate-checker",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Checks current mortgage interest rate for 30 year mortgage from FRED each week, and sends a Telegram to a bot if the percentage is lower than a given threshold",
-      "url": "https://github.com/mjbarton712/mortgage-rate-checker",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 44,
-      "createdAt": "2025-03-23T16:14:14Z",
-      "pushedAt": "2026-10-01T00:36:10Z",
-      "updatedAt": "2026-10-01T00:36:14Z",
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": [
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "size": 2103,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 52,
-      "commitsByMonth": {
-        "2026-10": 1,
-        "2026-09": 1,
-        "2026-08": 1,
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 1,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 1,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 4,
-        "2025-03": 30
-      },
-      "firstCommit": "2025-03-23T16:14:14Z",
-      "lastCommit": "2026-10-01T00:36:09Z"
     },
     {
       "name": "ping-autoshop",
@@ -1581,67 +1829,6 @@
       "lastCommit": "2025-07-16T01:49:57Z"
     },
     {
-      "name": "codex",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Integration with ChatGPT to assist with coding",
-      "url": "https://github.com/mjbarton712/codex",
-      "homepage": "https://codex-haven.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 134,
-      "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2025-07-02T02:10:50Z",
-      "updatedAt": "2025-07-02T02:10:53Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 10102,
-          "pct": 55
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 6603,
-          "pct": 36
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 1529,
-          "pct": 8
-        }
-      ],
-      "topics": [],
-      "commitTotal": 79,
-      "commitsByMonth": {
-        "2025-07": 5,
-        "2024-07": 3,
-        "2024-06": 3,
-        "2024-05": 2,
-        "2024-02": 2,
-        "2024-01": 10,
-        "2023-12": 16,
-        "2023-11": 14,
-        "2023-10": 3,
-        "2023-09": 2,
-        "2023-08": 3,
-        "2023-05": 1,
-        "2023-03": 9,
-        "2023-02": 6
-      },
-      "firstCommit": "2023-02-22T02:31:12Z",
-      "lastCommit": "2025-07-02T02:10:47Z"
-    },
-    {
       "name": "bible",
       "featured": false,
       "emoji": null,
@@ -1676,60 +1863,6 @@
       },
       "firstCommit": "2020-11-22T17:14:30Z",
       "lastCommit": "2020-11-22T17:39:15Z"
-    },
-    {
-      "name": "chatleaf-cache",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/chatleaf-cache",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 179,
-      "createdAt": "2025-03-28T19:04:34Z",
-      "pushedAt": "2025-06-28T15:53:59Z",
-      "updatedAt": "2025-03-28T19:12:27Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 181949,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3304,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 636,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-03": 5
-      },
-      "firstCommit": "2025-03-28T16:34:03Z",
-      "lastCommit": "2025-03-28T19:12:23Z"
     },
     {
       "name": "trueframe-golden-canvas",
@@ -1988,114 +2121,6 @@
       },
       "firstCommit": "2023-04-22T02:19:11Z",
       "lastCommit": "2023-04-22T03:01:24Z"
-    },
-    {
-      "name": "breadswater-threads-bloom",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/breadswater-threads-bloom",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 203,
-      "createdAt": "2025-05-17T04:11:03Z",
-      "pushedAt": "2025-06-15T05:15:33Z",
-      "updatedAt": "2025-05-19T04:08:43Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 255319,
-          "pct": 98
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2798,
-          "pct": 1
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 1328,
-          "pct": 1
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 6,
-      "commitsByMonth": {
-        "2025-05": 6
-      },
-      "firstCommit": "2025-05-17T03:29:59Z",
-      "lastCommit": "2025-05-19T04:08:39Z"
-    },
-    {
-      "name": "web-alchemy-build",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/web-alchemy-build",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 3748,
-      "createdAt": "2025-06-02T03:16:56Z",
-      "pushedAt": "2025-06-15T05:14:47Z",
-      "updatedAt": "2025-06-08T21:36:20Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 185420,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3724,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 673,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 21,
-      "commitsByMonth": {
-        "2025-06": 21
-      },
-      "firstCommit": "2025-06-02T03:13:53Z",
-      "lastCommit": "2025-06-08T21:36:15Z"
     },
     {
       "name": "waterbuffalo",
