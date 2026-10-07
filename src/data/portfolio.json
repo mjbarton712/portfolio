@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:50:52.176Z",
+  "generatedAt": "2026-10-07T14:24:02.111Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 732,
+    "totalCommits": 745,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5462220
+        "size": 5518893
       },
       {
         "name": "JavaScript",
-        "size": 867481
+        "size": 871489
       },
       {
         "name": "CSS",
@@ -93,17 +93,17 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 274
+      "commits": 275
     },
     {
       "year": 2025,
       "created": [
         "culinary-card",
         "mortgage-rate-checker",
-        "breadswater-threads-bloom",
-        "web-alchemy-build",
-        "chatleaf-cache",
         "job-bracket",
+        "web-alchemy-build",
+        "breadswater-threads-bloom",
+        "chatleaf-cache",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -120,12 +120,12 @@
       ],
       "active": [
         "mortgage-rate-checker",
+        "job-bracket",
+        "web-alchemy-build",
         "codex",
         "breadswater-threads-bloom",
-        "web-alchemy-build",
         "chatleaf-cache",
         "portfolio",
-        "job-bracket",
         "ping-autoshop",
         "retro-time-machine",
         "test-scala",
@@ -218,37 +218,42 @@
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-05T15:46:28Z"
+      "at": "2026-10-07T03:30:54Z"
     },
     {
       "type": "updated",
       "repo": "mortgage-rate-checker",
-      "at": "2026-10-05T00:19:46Z"
+      "at": "2026-10-06T20:58:24Z"
     },
     {
       "type": "updated",
-      "repo": "codex",
-      "at": "2026-10-05T00:01:59Z"
-    },
-    {
-      "type": "updated",
-      "repo": "breadswater-threads-bloom",
-      "at": "2026-10-04T23:52:04Z"
+      "repo": "job-bracket",
+      "at": "2026-10-06T20:57:30Z"
     },
     {
       "type": "updated",
       "repo": "web-alchemy-build",
-      "at": "2026-10-04T19:32:46Z"
+      "at": "2026-10-06T19:59:21Z"
+    },
+    {
+      "type": "updated",
+      "repo": "codex",
+      "at": "2026-10-06T18:31:38Z"
+    },
+    {
+      "type": "updated",
+      "repo": "breadswater-threads-bloom",
+      "at": "2026-10-06T03:57:29Z"
     },
     {
       "type": "updated",
       "repo": "chatleaf-cache",
-      "at": "2026-10-04T18:50:06Z"
+      "at": "2026-10-06T00:14:10Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-04T13:08:26Z"
+      "at": "2026-10-05T15:50:53Z"
     }
   ],
   "repos": [
@@ -264,10 +269,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 73226,
+      "diskKb": 73465,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-05T15:46:28Z",
-      "updatedAt": "2026-10-05T15:46:30Z",
+      "pushedAt": "2026-10-07T03:30:54Z",
+      "updatedAt": "2026-10-07T03:30:56Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -276,13 +281,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 1959823,
-          "pct": 72
+          "size": 2016496,
+          "pct": 73
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 740565,
+          "size": 744573,
           "pct": 27
         },
         {
@@ -299,15 +304,15 @@
         }
       ],
       "topics": [],
-      "commitTotal": 177,
+      "commitTotal": 189,
       "commitsByMonth": {
-        "2026-10": 29,
+        "2026-10": 41,
         "2026-09": 30,
         "2026-08": 22,
-        "2026-07": 19
+        "2026-07": 7
       },
-      "firstCommit": "2026-07-25T13:20:19Z",
-      "lastCommit": "2026-10-05T15:46:25Z"
+      "firstCommit": "2026-07-29T00:03:04Z",
+      "lastCommit": "2026-10-07T03:30:51Z"
     },
     {
       "name": "asl-guide",
@@ -614,9 +619,9 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 46,
+      "diskKb": 48,
       "createdAt": "2025-03-23T16:14:14Z",
-      "pushedAt": "2026-10-05T00:19:46Z",
+      "pushedAt": "2026-10-06T20:58:24Z",
       "updatedAt": "2026-10-01T00:36:14Z",
       "primaryLanguage": {
         "name": "Python",
@@ -658,6 +663,108 @@
       "lastCommit": "2026-10-01T00:36:09Z"
     },
     {
+      "name": "job-bracket",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
+      "url": "https://github.com/mjbarton712/job-bracket",
+      "homepage": "https://job-bracket.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 61,
+      "createdAt": "2025-12-26T06:04:31Z",
+      "pushedAt": "2026-10-06T20:57:30Z",
+      "updatedAt": "2025-12-26T06:14:37Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 53091,
+          "pct": 96
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1543,
+          "pct": 3
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 559,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-12": 5
+      },
+      "firstCommit": "2025-12-21T20:07:21Z",
+      "lastCommit": "2025-12-26T06:14:10Z"
+    },
+    {
+      "name": "web-alchemy-build",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/web-alchemy-build",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 3764,
+      "createdAt": "2025-06-02T03:16:56Z",
+      "pushedAt": "2026-10-06T19:59:21Z",
+      "updatedAt": "2025-06-08T21:36:20Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 185420,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3724,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 673,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 21,
+      "commitsByMonth": {
+        "2025-06": 21
+      },
+      "firstCommit": "2025-06-02T03:13:53Z",
+      "lastCommit": "2025-06-08T21:36:15Z"
+    },
+    {
       "name": "codex",
       "featured": false,
       "emoji": null,
@@ -669,9 +776,9 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 139,
+      "diskKb": 143,
       "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2026-10-05T00:01:59Z",
+      "pushedAt": "2026-10-06T18:31:38Z",
       "updatedAt": "2025-07-02T02:10:53Z",
       "primaryLanguage": {
         "name": "JavaScript",
@@ -730,9 +837,9 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 217,
+      "diskKb": 219,
       "createdAt": "2025-05-17T04:11:03Z",
-      "pushedAt": "2026-10-04T23:52:04Z",
+      "pushedAt": "2026-10-06T03:57:29Z",
       "updatedAt": "2025-05-19T04:08:43Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -773,60 +880,6 @@
       "lastCommit": "2025-05-19T04:08:39Z"
     },
     {
-      "name": "web-alchemy-build",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/web-alchemy-build",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 3762,
-      "createdAt": "2025-06-02T03:16:56Z",
-      "pushedAt": "2026-10-04T19:32:46Z",
-      "updatedAt": "2025-06-08T21:36:20Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 185420,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3724,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 673,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 21,
-      "commitsByMonth": {
-        "2025-06": 21
-      },
-      "firstCommit": "2025-06-02T03:13:53Z",
-      "lastCommit": "2025-06-08T21:36:15Z"
-    },
-    {
       "name": "chatleaf-cache",
       "featured": false,
       "emoji": null,
@@ -838,9 +891,9 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 195,
+      "diskKb": 199,
       "createdAt": "2025-03-28T19:04:34Z",
-      "pushedAt": "2026-10-04T18:50:06Z",
+      "pushedAt": "2026-10-06T00:14:10Z",
       "updatedAt": "2025-03-28T19:12:27Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -892,10 +945,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 146,
+      "diskKb": 148,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-04T13:08:26Z",
-      "updatedAt": "2026-10-04T13:08:30Z",
+      "pushedAt": "2026-10-05T15:50:53Z",
+      "updatedAt": "2026-10-05T15:50:56Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -921,64 +974,16 @@
         }
       ],
       "topics": [],
-      "commitTotal": 76,
+      "commitTotal": 77,
       "commitsByMonth": {
-        "2026-10": 3,
+        "2026-10": 4,
         "2026-09": 30,
         "2026-08": 30,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-04T13:08:26Z"
-    },
-    {
-      "name": "job-bracket",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
-      "url": "https://github.com/mjbarton712/job-bracket",
-      "homepage": "https://job-bracket.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 61,
-      "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-10-02T19:49:20Z",
-      "updatedAt": "2025-12-26T06:14:37Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 53091,
-          "pct": 96
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1543,
-          "pct": 3
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 559,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-12": 5
-      },
-      "firstCommit": "2025-12-21T20:07:21Z",
-      "lastCommit": "2025-12-26T06:14:10Z"
+      "lastCommit": "2026-10-05T15:50:52Z"
     },
     {
       "name": "ping-autoshop",
