@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:24:02.111Z",
+  "generatedAt": "2026-10-08T14:31:27.101Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,12 +11,12 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 745,
+    "totalCommits": 749,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5518893
+        "size": 5519892
       },
       {
         "name": "JavaScript",
@@ -74,8 +74,8 @@
       ],
       "active": [
         "culinary-card",
-        "mortgage-rate-checker",
         "portfolio",
+        "mortgage-rate-checker",
         "ping-autoshop",
         "asl-guide",
         "apartment-search",
@@ -93,17 +93,17 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 275
+      "commits": 276
     },
     {
       "year": 2025,
       "created": [
+        "chatleaf-cache",
         "culinary-card",
         "mortgage-rate-checker",
         "job-bracket",
         "web-alchemy-build",
         "breadswater-threads-bloom",
-        "chatleaf-cache",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -119,13 +119,13 @@
         "daytrade"
       ],
       "active": [
+        "chatleaf-cache",
+        "portfolio",
         "mortgage-rate-checker",
         "job-bracket",
         "web-alchemy-build",
         "codex",
         "breadswater-threads-bloom",
-        "chatleaf-cache",
-        "portfolio",
         "ping-autoshop",
         "retro-time-machine",
         "test-scala",
@@ -217,43 +217,18 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "culinary-card",
-      "at": "2026-10-07T03:30:54Z"
-    },
-    {
-      "type": "updated",
-      "repo": "mortgage-rate-checker",
-      "at": "2026-10-06T20:58:24Z"
-    },
-    {
-      "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-10-06T20:57:30Z"
-    },
-    {
-      "type": "updated",
-      "repo": "web-alchemy-build",
-      "at": "2026-10-06T19:59:21Z"
-    },
-    {
-      "type": "updated",
-      "repo": "codex",
-      "at": "2026-10-06T18:31:38Z"
-    },
-    {
-      "type": "updated",
-      "repo": "breadswater-threads-bloom",
-      "at": "2026-10-06T03:57:29Z"
-    },
-    {
-      "type": "updated",
       "repo": "chatleaf-cache",
-      "at": "2026-10-06T00:14:10Z"
+      "at": "2026-10-08T03:53:32Z"
+    },
+    {
+      "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-10-08T03:20:55Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-05T15:50:53Z"
+      "at": "2026-10-07T14:24:04Z"
     }
   ],
   "repos": [
@@ -269,10 +244,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 73465,
+      "diskKb": 73476,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-07T03:30:54Z",
-      "updatedAt": "2026-10-07T03:30:56Z",
+      "pushedAt": "2026-10-08T03:20:55Z",
+      "updatedAt": "2026-10-08T03:20:57Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -281,7 +256,7 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2016496,
+          "size": 2017495,
           "pct": 73
         },
         {
@@ -304,15 +279,15 @@
         }
       ],
       "topics": [],
-      "commitTotal": 189,
+      "commitTotal": 192,
       "commitsByMonth": {
-        "2026-10": 41,
+        "2026-10": 44,
         "2026-09": 30,
         "2026-08": 22,
-        "2026-07": 7
+        "2026-07": 4
       },
-      "firstCommit": "2026-07-29T00:03:04Z",
-      "lastCommit": "2026-10-07T03:30:51Z"
+      "firstCommit": "2026-07-29T14:22:37Z",
+      "lastCommit": "2026-10-08T03:20:52Z"
     },
     {
       "name": "asl-guide",
@@ -608,6 +583,112 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "chatleaf-cache",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/chatleaf-cache",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 209,
+      "createdAt": "2025-03-28T19:04:34Z",
+      "pushedAt": "2026-10-08T03:53:32Z",
+      "updatedAt": "2025-03-28T19:12:27Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 181949,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3304,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 636,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-03": 5
+      },
+      "firstCommit": "2025-03-28T16:34:03Z",
+      "lastCommit": "2025-03-28T19:12:23Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 149,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-07T14:24:04Z",
+      "updatedAt": "2026-10-07T14:24:08Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 78,
+      "commitsByMonth": {
+        "2026-10": 5,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-07T14:24:02Z"
+    },
+    {
       "name": "mortgage-rate-checker",
       "featured": false,
       "emoji": null,
@@ -878,112 +959,6 @@
       },
       "firstCommit": "2025-05-17T03:29:59Z",
       "lastCommit": "2025-05-19T04:08:39Z"
-    },
-    {
-      "name": "chatleaf-cache",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/chatleaf-cache",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 199,
-      "createdAt": "2025-03-28T19:04:34Z",
-      "pushedAt": "2026-10-06T00:14:10Z",
-      "updatedAt": "2025-03-28T19:12:27Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 181949,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3304,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 636,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-03": 5
-      },
-      "firstCommit": "2025-03-28T16:34:03Z",
-      "lastCommit": "2025-03-28T19:12:23Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 148,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-05T15:50:53Z",
-      "updatedAt": "2026-10-05T15:50:56Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 77,
-      "commitsByMonth": {
-        "2026-10": 4,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-05T15:50:52Z"
     },
     {
       "name": "ping-autoshop",
