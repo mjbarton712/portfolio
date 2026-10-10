@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:31:27.101Z",
+  "generatedAt": "2026-10-10T13:31:28.371Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 4,
-    "totalCommits": 749,
+    "totalCommits": 755,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5519892
+        "size": 5532361
       },
       {
         "name": "JavaScript",
-        "size": 871489
+        "size": 909210
       },
       {
         "name": "CSS",
@@ -93,17 +93,17 @@
         "simple-strands",
         "austin-auto"
       ],
-      "commits": 276
+      "commits": 277
     },
     {
       "year": 2025,
       "created": [
         "chatleaf-cache",
+        "breadswater-threads-bloom",
+        "web-alchemy-build",
         "culinary-card",
         "mortgage-rate-checker",
         "job-bracket",
-        "web-alchemy-build",
-        "breadswater-threads-bloom",
         "test-scala",
         "christmas-nativity-game",
         "doula-service",
@@ -120,12 +120,12 @@
       ],
       "active": [
         "chatleaf-cache",
+        "breadswater-threads-bloom",
+        "codex",
+        "web-alchemy-build",
         "portfolio",
         "mortgage-rate-checker",
         "job-bracket",
-        "web-alchemy-build",
-        "codex",
-        "breadswater-threads-bloom",
         "ping-autoshop",
         "retro-time-machine",
         "test-scala",
@@ -218,17 +218,32 @@
     {
       "type": "updated",
       "repo": "chatleaf-cache",
-      "at": "2026-10-08T03:53:32Z"
+      "at": "2026-10-10T11:45:55Z"
+    },
+    {
+      "type": "updated",
+      "repo": "breadswater-threads-bloom",
+      "at": "2026-10-10T10:40:21Z"
+    },
+    {
+      "type": "updated",
+      "repo": "codex",
+      "at": "2026-10-10T07:47:41Z"
+    },
+    {
+      "type": "updated",
+      "repo": "web-alchemy-build",
+      "at": "2026-10-10T04:08:36Z"
     },
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-08T03:20:55Z"
+      "at": "2026-10-09T21:18:23Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-07T14:24:04Z"
+      "at": "2026-10-08T14:31:28Z"
     }
   ],
   "repos": [
@@ -244,10 +259,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 73476,
+      "diskKb": 73549,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-08T03:20:55Z",
-      "updatedAt": "2026-10-08T03:20:57Z",
+      "pushedAt": "2026-10-09T21:18:23Z",
+      "updatedAt": "2026-10-09T20:50:59Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -256,14 +271,14 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2017495,
-          "pct": 73
+          "size": 2029964,
+          "pct": 72
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 744573,
-          "pct": 27
+          "size": 782294,
+          "pct": 28
         },
         {
           "name": "CSS",
@@ -279,15 +294,14 @@
         }
       ],
       "topics": [],
-      "commitTotal": 192,
+      "commitTotal": 197,
       "commitsByMonth": {
-        "2026-10": 44,
+        "2026-10": 49,
         "2026-09": 30,
-        "2026-08": 22,
-        "2026-07": 4
+        "2026-08": 21
       },
-      "firstCommit": "2026-07-29T14:22:37Z",
-      "lastCommit": "2026-10-08T03:20:52Z"
+      "firstCommit": "2026-08-01T00:39:14Z",
+      "lastCommit": "2026-10-09T20:50:54Z"
     },
     {
       "name": "asl-guide",
@@ -594,9 +608,9 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 209,
+      "diskKb": 218,
       "createdAt": "2025-03-28T19:04:34Z",
-      "pushedAt": "2026-10-08T03:53:32Z",
+      "pushedAt": "2026-10-10T11:45:55Z",
       "updatedAt": "2025-03-28T19:12:27Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -637,6 +651,175 @@
       "lastCommit": "2025-03-28T19:12:23Z"
     },
     {
+      "name": "breadswater-threads-bloom",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/breadswater-threads-bloom",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 233,
+      "createdAt": "2025-05-17T04:11:03Z",
+      "pushedAt": "2026-10-10T10:40:21Z",
+      "updatedAt": "2025-05-19T04:08:43Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 255319,
+          "pct": 98
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2798,
+          "pct": 1
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1328,
+          "pct": 1
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 6,
+      "commitsByMonth": {
+        "2025-05": 6
+      },
+      "firstCommit": "2025-05-17T03:29:59Z",
+      "lastCommit": "2025-05-19T04:08:39Z"
+    },
+    {
+      "name": "codex",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Integration with ChatGPT to assist with coding",
+      "url": "https://github.com/mjbarton712/codex",
+      "homepage": "https://codex-haven.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 153,
+      "createdAt": "2023-02-22T02:31:28Z",
+      "pushedAt": "2026-10-10T07:47:41Z",
+      "updatedAt": "2025-07-02T02:10:53Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 10102,
+          "pct": 55
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 6603,
+          "pct": 36
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1529,
+          "pct": 8
+        }
+      ],
+      "topics": [],
+      "commitTotal": 79,
+      "commitsByMonth": {
+        "2025-07": 5,
+        "2024-07": 3,
+        "2024-06": 3,
+        "2024-05": 2,
+        "2024-02": 2,
+        "2024-01": 10,
+        "2023-12": 16,
+        "2023-11": 14,
+        "2023-10": 3,
+        "2023-09": 2,
+        "2023-08": 3,
+        "2023-05": 1,
+        "2023-03": 9,
+        "2023-02": 6
+      },
+      "firstCommit": "2023-02-22T02:31:12Z",
+      "lastCommit": "2025-07-02T02:10:47Z"
+    },
+    {
+      "name": "web-alchemy-build",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/web-alchemy-build",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 3750,
+      "createdAt": "2025-06-02T03:16:56Z",
+      "pushedAt": "2026-10-10T04:08:36Z",
+      "updatedAt": "2025-06-08T21:36:20Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 185420,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3724,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 673,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 21,
+      "commitsByMonth": {
+        "2025-06": 21
+      },
+      "firstCommit": "2025-06-02T03:13:53Z",
+      "lastCommit": "2025-06-08T21:36:15Z"
+    },
+    {
       "name": "portfolio",
       "featured": false,
       "emoji": null,
@@ -648,10 +831,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 149,
+      "diskKb": 150,
       "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-07T14:24:04Z",
-      "updatedAt": "2026-10-07T14:24:08Z",
+      "pushedAt": "2026-10-08T14:31:28Z",
+      "updatedAt": "2026-10-08T14:31:32Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -677,16 +860,16 @@
         }
       ],
       "topics": [],
-      "commitTotal": 78,
+      "commitTotal": 79,
       "commitsByMonth": {
-        "2026-10": 5,
+        "2026-10": 6,
         "2026-09": 30,
         "2026-08": 30,
         "2026-07": 11,
         "2025-06": 2
       },
       "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-07T14:24:02Z"
+      "lastCommit": "2026-10-08T14:31:27Z"
     },
     {
       "name": "mortgage-rate-checker",
@@ -790,175 +973,6 @@
       },
       "firstCommit": "2025-12-21T20:07:21Z",
       "lastCommit": "2025-12-26T06:14:10Z"
-    },
-    {
-      "name": "web-alchemy-build",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/web-alchemy-build",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 3764,
-      "createdAt": "2025-06-02T03:16:56Z",
-      "pushedAt": "2026-10-06T19:59:21Z",
-      "updatedAt": "2025-06-08T21:36:20Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 185420,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3724,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 673,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 21,
-      "commitsByMonth": {
-        "2025-06": 21
-      },
-      "firstCommit": "2025-06-02T03:13:53Z",
-      "lastCommit": "2025-06-08T21:36:15Z"
-    },
-    {
-      "name": "codex",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Integration with ChatGPT to assist with coding",
-      "url": "https://github.com/mjbarton712/codex",
-      "homepage": "https://codex-haven.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 143,
-      "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2026-10-06T18:31:38Z",
-      "updatedAt": "2025-07-02T02:10:53Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 10102,
-          "pct": 55
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 6603,
-          "pct": 36
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 1529,
-          "pct": 8
-        }
-      ],
-      "topics": [],
-      "commitTotal": 79,
-      "commitsByMonth": {
-        "2025-07": 5,
-        "2024-07": 3,
-        "2024-06": 3,
-        "2024-05": 2,
-        "2024-02": 2,
-        "2024-01": 10,
-        "2023-12": 16,
-        "2023-11": 14,
-        "2023-10": 3,
-        "2023-09": 2,
-        "2023-08": 3,
-        "2023-05": 1,
-        "2023-03": 9,
-        "2023-02": 6
-      },
-      "firstCommit": "2023-02-22T02:31:12Z",
-      "lastCommit": "2025-07-02T02:10:47Z"
-    },
-    {
-      "name": "breadswater-threads-bloom",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/breadswater-threads-bloom",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 219,
-      "createdAt": "2025-05-17T04:11:03Z",
-      "pushedAt": "2026-10-06T03:57:29Z",
-      "updatedAt": "2025-05-19T04:08:43Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 255319,
-          "pct": 98
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2798,
-          "pct": 1
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 1328,
-          "pct": 1
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 6,
-      "commitsByMonth": {
-        "2025-05": 6
-      },
-      "firstCommit": "2025-05-17T03:29:59Z",
-      "lastCommit": "2025-05-19T04:08:39Z"
     },
     {
       "name": "ping-autoshop",
