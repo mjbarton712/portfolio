@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:55:29.904Z",
+  "generatedAt": "2026-10-12T16:40:32.631Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 30,
     "totalStars": 5,
-    "totalCommits": 762,
+    "totalCommits": 774,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5573988
+        "size": 5621523
       },
       {
         "name": "JavaScript",
-        "size": 995339
+        "size": 1072930
       },
       {
         "name": "CSS",
@@ -28,7 +28,7 @@
       },
       {
         "name": "HTML",
-        "size": 199577
+        "size": 211809
       },
       {
         "name": "Python",
@@ -73,11 +73,11 @@
         "simple-strands"
       ],
       "active": [
-        "austin-auto",
-        "mortgage-rate-checker",
         "culinary-card",
         "ping-autoshop",
         "portfolio",
+        "austin-auto",
+        "mortgage-rate-checker",
         "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
@@ -93,13 +93,17 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 278
+      "commits": 279
     },
     {
       "year": 2025,
       "created": [
-        "ptl-soccer-unleashed",
+        "culinary-card",
+        "yellowfield",
         "trueframe-yu",
+        "chatleaf-cache",
+        "web-alchemy-build",
+        "ptl-soccer-unleashed",
         "breadswater-threads-bloom",
         "doula-service",
         "trueframe",
@@ -107,10 +111,6 @@
         "trueframe-sm",
         "komiori-landing-spark",
         "mortgage-rate-checker",
-        "culinary-card",
-        "yellowfield",
-        "chatleaf-cache",
-        "web-alchemy-build",
         "job-bracket",
         "test-scala",
         "christmas-nativity-game",
@@ -119,8 +119,13 @@
         "daytrade"
       ],
       "active": [
-        "ptl-soccer-unleashed",
+        "yellowfield",
         "trueframe-yu",
+        "ping-autoshop",
+        "chatleaf-cache",
+        "web-alchemy-build",
+        "portfolio",
+        "ptl-soccer-unleashed",
         "codex",
         "breadswater-threads-bloom",
         "doula-service",
@@ -130,11 +135,6 @@
         "austin-auto",
         "komiori-landing-spark",
         "mortgage-rate-checker",
-        "ping-autoshop",
-        "yellowfield",
-        "portfolio",
-        "chatleaf-cache",
-        "web-alchemy-build",
         "job-bracket",
         "retro-time-machine",
         "test-scala",
@@ -148,13 +148,13 @@
     {
       "year": 2024,
       "created": [
-        "austin-auto",
-        "ping-autoshop"
+        "ping-autoshop",
+        "austin-auto"
       ],
       "active": [
+        "ping-autoshop",
         "codex",
-        "austin-auto",
-        "ping-autoshop"
+        "austin-auto"
       ],
       "commits": 59
     },
@@ -217,96 +217,102 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "ptl-soccer-unleashed",
-      "at": "2026-10-11T12:14:11Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-yu",
-      "at": "2026-10-11T11:44:42Z"
-    },
-    {
-      "type": "updated",
-      "repo": "codex",
-      "at": "2026-10-11T11:38:59Z"
-    },
-    {
-      "type": "updated",
-      "repo": "breadswater-threads-bloom",
-      "at": "2026-10-11T11:21:43Z"
-    },
-    {
-      "type": "updated",
-      "repo": "doula-service",
-      "at": "2026-10-11T11:20:56Z"
-    },
-    {
-      "type": "updated",
-      "repo": "waterbuffalo",
-      "at": "2026-10-11T11:11:46Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe",
-      "at": "2026-10-11T10:52:52Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-golden-canvas",
-      "at": "2026-10-11T08:13:19Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-sm",
-      "at": "2026-10-11T08:04:54Z"
+      "repo": "culinary-card",
+      "at": "2026-10-12T16:36:51Z"
     },
     {
       "type": "updated",
       "repo": "bible",
-      "at": "2026-10-11T07:43:08Z"
-    },
-    {
-      "type": "updated",
-      "repo": "esv-smile",
-      "at": "2026-10-11T04:00:38Z"
-    },
-    {
-      "type": "updated",
-      "repo": "austin-auto",
-      "at": "2026-10-11T03:44:23Z"
-    },
-    {
-      "type": "updated",
-      "repo": "komiori-landing-spark",
-      "at": "2026-10-11T03:42:18Z"
-    },
-    {
-      "type": "updated",
-      "repo": "mortgage-rate-checker",
-      "at": "2026-10-11T03:38:19Z"
-    },
-    {
-      "type": "updated",
-      "repo": "culinary-card",
-      "at": "2026-10-11T02:52:10Z"
-    },
-    {
-      "type": "updated",
-      "repo": "ping-autoshop",
-      "at": "2026-10-10T20:52:24Z"
+      "at": "2026-10-12T07:58:03Z"
     },
     {
       "type": "updated",
       "repo": "yellowfield",
-      "at": "2026-10-10T20:00:39Z"
+      "at": "2026-10-12T07:34:26Z"
+    },
+    {
+      "type": "updated",
+      "repo": "trueframe-yu",
+      "at": "2026-10-12T04:07:22Z"
+    },
+    {
+      "type": "updated",
+      "repo": "ping-autoshop",
+      "at": "2026-10-11T15:58:51Z"
+    },
+    {
+      "type": "updated",
+      "repo": "chatleaf-cache",
+      "at": "2026-10-11T14:54:50Z"
+    },
+    {
+      "type": "updated",
+      "repo": "web-alchemy-build",
+      "at": "2026-10-11T14:42:44Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-10T13:31:29Z"
+      "at": "2026-10-11T13:55:30Z"
     }
   ],
   "repos": [
+    {
+      "name": "culinary-card",
+      "featured": true,
+      "emoji": "🍳",
+      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/culinary-card",
+      "homepage": "https://culinary-card.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 76196,
+      "createdAt": "2025-11-05T02:14:23Z",
+      "pushedAt": "2026-10-12T16:36:51Z",
+      "updatedAt": "2026-10-12T04:53:35Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 2119126,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 946014,
+          "pct": 31
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 17414,
+          "pct": 1
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 14261,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 214,
+      "commitsByMonth": {
+        "2026-10": 66,
+        "2026-09": 30,
+        "2026-08": 4
+      },
+      "firstCommit": "2026-08-20T03:04:29Z",
+      "lastCommit": "2026-10-12T16:10:03Z"
+    },
     {
       "name": "austin-auto",
       "featured": true,
@@ -369,62 +375,6 @@
       },
       "firstCommit": "2024-09-14T19:12:48Z",
       "lastCommit": "2026-03-07T05:11:52Z"
-    },
-    {
-      "name": "culinary-card",
-      "featured": true,
-      "emoji": "🍳",
-      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/culinary-card",
-      "homepage": "https://culinary-card.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 73629,
-      "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-11T02:52:10Z",
-      "updatedAt": "2026-10-11T02:52:12Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 2071591,
-          "pct": 70
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 868423,
-          "pct": 29
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 14261,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 5182,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 203,
-      "commitsByMonth": {
-        "2026-10": 55,
-        "2026-09": 30,
-        "2026-08": 15
-      },
-      "firstCommit": "2026-08-02T14:31:48Z",
-      "lastCommit": "2026-10-11T02:52:07Z"
     },
     {
       "name": "asl-guide",
@@ -657,6 +607,353 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "bible",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/bible",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 19,
+      "createdAt": "2020-11-22T17:14:28Z",
+      "pushedAt": "2026-10-12T07:58:03Z",
+      "updatedAt": "2020-11-22T17:39:18Z",
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "size": 582,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 3,
+      "commitsByMonth": {
+        "2020-11": 3
+      },
+      "firstCommit": "2020-11-22T17:14:30Z",
+      "lastCommit": "2020-11-22T17:39:15Z"
+    },
+    {
+      "name": "yellowfield",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Vibe coding platform",
+      "url": "https://github.com/mjbarton712/yellowfield",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 2254,
+      "createdAt": "2025-09-06T03:58:06Z",
+      "pushedAt": "2026-10-12T07:34:26Z",
+      "updatedAt": "2025-09-06T05:55:23Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 13899,
+          "pct": 85
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1846,
+          "pct": 11
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 605,
+          "pct": 4
+        }
+      ],
+      "topics": [],
+      "commitTotal": 2,
+      "commitsByMonth": {
+        "2025-09": 2
+      },
+      "firstCommit": "2025-09-06T03:58:06Z",
+      "lastCommit": "2025-09-06T05:55:16Z"
+    },
+    {
+      "name": "trueframe-yu",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/trueframe-yu",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 2432,
+      "createdAt": "2025-06-17T03:56:16Z",
+      "pushedAt": "2026-10-12T04:07:22Z",
+      "updatedAt": "2025-06-17T03:56:29Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 49487,
+          "pct": 90
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 5075,
+          "pct": 9
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 362,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 1,
+      "commitsByMonth": {
+        "2025-06": 1
+      },
+      "firstCommit": "2025-06-17T03:56:24Z",
+      "lastCommit": "2025-06-17T03:56:24Z"
+    },
+    {
+      "name": "ping-autoshop",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Ping autoshop database in supabase to prevent it from pausing",
+      "url": "https://github.com/mjbarton712/ping-autoshop",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 28,
+      "createdAt": "2024-12-24T04:15:46Z",
+      "pushedAt": "2026-10-11T15:58:51Z",
+      "updatedAt": "2026-10-01T00:14:25Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 1808,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 35,
+      "commitsByMonth": {
+        "2026-10": 1,
+        "2026-09": 1,
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 3,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 3,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 2,
+        "2024-12": 11
+      },
+      "firstCommit": "2024-12-24T04:15:47Z",
+      "lastCommit": "2026-10-01T00:14:20Z"
+    },
+    {
+      "name": "chatleaf-cache",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/chatleaf-cache",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 224,
+      "createdAt": "2025-03-28T19:04:34Z",
+      "pushedAt": "2026-10-11T14:54:50Z",
+      "updatedAt": "2025-03-28T19:12:27Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 181949,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3304,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 636,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-03": 5
+      },
+      "firstCommit": "2025-03-28T16:34:03Z",
+      "lastCommit": "2025-03-28T19:12:23Z"
+    },
+    {
+      "name": "web-alchemy-build",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/web-alchemy-build",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 3753,
+      "createdAt": "2025-06-02T03:16:56Z",
+      "pushedAt": "2026-10-11T14:42:44Z",
+      "updatedAt": "2025-06-08T21:36:20Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 185420,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 3724,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 869,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 673,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 21,
+      "commitsByMonth": {
+        "2025-06": 21
+      },
+      "firstCommit": "2025-06-02T03:13:53Z",
+      "lastCommit": "2025-06-08T21:36:15Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 153,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-11T13:55:30Z",
+      "updatedAt": "2026-10-11T13:55:34Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 81,
+      "commitsByMonth": {
+        "2026-10": 8,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-11T13:55:29Z"
+    },
+    {
       "name": "ptl-soccer-unleashed",
       "featured": false,
       "emoji": null,
@@ -711,54 +1008,6 @@
       },
       "firstCommit": "2025-06-14T23:59:11Z",
       "lastCommit": "2025-10-03T22:59:40Z"
-    },
-    {
-      "name": "trueframe-yu",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/trueframe-yu",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 2429,
-      "createdAt": "2025-06-17T03:56:16Z",
-      "pushedAt": "2026-10-11T11:44:42Z",
-      "updatedAt": "2025-06-17T03:56:29Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 49487,
-          "pct": 90
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 5075,
-          "pct": 9
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 362,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 1,
-      "commitsByMonth": {
-        "2025-06": 1
-      },
-      "firstCommit": "2025-06-17T03:56:24Z",
-      "lastCommit": "2025-06-17T03:56:24Z"
     },
     {
       "name": "codex",
@@ -1124,42 +1373,6 @@
       "lastCommit": "2025-06-17T03:56:43Z"
     },
     {
-      "name": "bible",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/bible",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 17,
-      "createdAt": "2020-11-22T17:14:28Z",
-      "pushedAt": "2026-10-11T07:43:08Z",
-      "updatedAt": "2020-11-22T17:39:18Z",
-      "primaryLanguage": {
-        "name": "Java",
-        "color": "#b07219"
-      },
-      "languages": [
-        {
-          "name": "Java",
-          "color": "#b07219",
-          "size": 582,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 3,
-      "commitsByMonth": {
-        "2020-11": 3
-      },
-      "firstCommit": "2020-11-22T17:14:30Z",
-      "lastCommit": "2020-11-22T17:39:15Z"
-    },
-    {
       "name": "esv-smile",
       "featured": false,
       "emoji": null,
@@ -1321,269 +1534,6 @@
       },
       "firstCommit": "2025-03-23T16:14:14Z",
       "lastCommit": "2026-10-01T00:36:09Z"
-    },
-    {
-      "name": "ping-autoshop",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Ping autoshop database in supabase to prevent it from pausing",
-      "url": "https://github.com/mjbarton712/ping-autoshop",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 30,
-      "createdAt": "2024-12-24T04:15:46Z",
-      "pushedAt": "2026-10-10T20:52:24Z",
-      "updatedAt": "2026-10-01T00:14:25Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 1808,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 35,
-      "commitsByMonth": {
-        "2026-10": 1,
-        "2026-09": 1,
-        "2026-08": 1,
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 3,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 3,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 2,
-        "2024-12": 11
-      },
-      "firstCommit": "2024-12-24T04:15:47Z",
-      "lastCommit": "2026-10-01T00:14:20Z"
-    },
-    {
-      "name": "yellowfield",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Vibe coding platform",
-      "url": "https://github.com/mjbarton712/yellowfield",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 2248,
-      "createdAt": "2025-09-06T03:58:06Z",
-      "pushedAt": "2026-10-10T20:00:39Z",
-      "updatedAt": "2025-09-06T05:55:23Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 13899,
-          "pct": 85
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1846,
-          "pct": 11
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 605,
-          "pct": 4
-        }
-      ],
-      "topics": [],
-      "commitTotal": 2,
-      "commitsByMonth": {
-        "2025-09": 2
-      },
-      "firstCommit": "2025-09-06T03:58:06Z",
-      "lastCommit": "2025-09-06T05:55:16Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 151,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-10T13:31:29Z",
-      "updatedAt": "2026-10-10T13:31:32Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 80,
-      "commitsByMonth": {
-        "2026-10": 7,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-10T13:31:28Z"
-    },
-    {
-      "name": "chatleaf-cache",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/chatleaf-cache",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 218,
-      "createdAt": "2025-03-28T19:04:34Z",
-      "pushedAt": "2026-10-10T11:45:55Z",
-      "updatedAt": "2025-03-28T19:12:27Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 181949,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3304,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 636,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-03": 5
-      },
-      "firstCommit": "2025-03-28T16:34:03Z",
-      "lastCommit": "2025-03-28T19:12:23Z"
-    },
-    {
-      "name": "web-alchemy-build",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/web-alchemy-build",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 3750,
-      "createdAt": "2025-06-02T03:16:56Z",
-      "pushedAt": "2026-10-10T04:08:36Z",
-      "updatedAt": "2025-06-08T21:36:20Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 185420,
-          "pct": 97
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 3724,
-          "pct": 2
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 869,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 673,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 21,
-      "commitsByMonth": {
-        "2025-06": 21
-      },
-      "firstCommit": "2025-06-02T03:13:53Z",
-      "lastCommit": "2025-06-08T21:36:15Z"
     },
     {
       "name": "job-bracket",
