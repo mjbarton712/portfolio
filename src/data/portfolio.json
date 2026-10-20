@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:01:24.400Z",
+  "generatedAt": "2026-10-20T12:40:40.377Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 795,
+    "totalCommits": 808,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5690396
+        "size": 5854681
       },
       {
         "name": "JavaScript",
-        "size": 1160623
+        "size": 1169559
       },
       {
         "name": "CSS",
@@ -36,7 +36,7 @@
       },
       {
         "name": "HCL",
-        "size": 25911
+        "size": 34790
       },
       {
         "name": "Java",
@@ -56,9 +56,9 @@
     {
       "year": 2026,
       "created": [
+        "asl-guide",
         "portfolio",
         "purpose-forecast",
-        "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
         "heidi-tutoring",
@@ -74,13 +74,13 @@
         "simple-strands"
       ],
       "active": [
-        "austin-auto",
-        "portfolio",
+        "asl-guide",
         "culinary-card",
+        "portfolio",
+        "austin-auto",
         "purpose-forecast",
         "ping-autoshop",
         "mortgage-rate-checker",
-        "asl-guide",
         "apartment-search",
         "ai-engineer-matt",
         "heidi-tutoring",
@@ -95,21 +95,21 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 285
+      "commits": 294
     },
     {
       "year": 2025,
       "created": [
-        "trueframe",
+        "culinary-card",
         "trueframe-sm",
+        "trueframe",
+        "doula-service",
+        "trueframe-yu",
         "job-bracket",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
         "yellowfield",
-        "culinary-card",
         "trueframe-golden-canvas",
-        "trueframe-yu",
-        "doula-service",
         "chatleaf-cache",
         "web-alchemy-build",
         "breadswater-threads-bloom",
@@ -121,18 +121,18 @@
         "daytrade"
       ],
       "active": [
-        "trueframe",
-        "codex",
         "trueframe-sm",
-        "austin-auto",
+        "trueframe",
+        "doula-service",
+        "trueframe-yu",
         "portfolio",
+        "codex",
+        "austin-auto",
         "job-bracket",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
         "yellowfield",
         "trueframe-golden-canvas",
-        "trueframe-yu",
-        "doula-service",
         "chatleaf-cache",
         "web-alchemy-build",
         "breadswater-threads-bloom",
@@ -219,36 +219,164 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "trueframe",
-      "at": "2026-10-17T16:50:25Z"
+      "repo": "asl-guide",
+      "at": "2026-10-20T02:48:23Z"
     },
     {
       "type": "updated",
-      "repo": "codex",
-      "at": "2026-10-17T15:56:42Z"
+      "repo": "culinary-card",
+      "at": "2026-10-20T00:22:34Z"
     },
     {
       "type": "updated",
       "repo": "trueframe-sm",
-      "at": "2026-10-17T15:49:21Z"
+      "at": "2026-10-19T04:21:29Z"
     },
     {
       "type": "updated",
-      "repo": "waterbuffalo",
-      "at": "2026-10-17T15:44:08Z"
+      "repo": "trueframe",
+      "at": "2026-10-19T03:24:47Z"
     },
     {
       "type": "updated",
-      "repo": "austin-auto",
-      "at": "2026-10-17T12:03:15Z"
+      "repo": "doula-service",
+      "at": "2026-10-19T03:18:18Z"
+    },
+    {
+      "type": "updated",
+      "repo": "trueframe-yu",
+      "at": "2026-10-19T02:49:03Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-17T11:32:23Z"
+      "at": "2026-10-18T12:01:25Z"
     }
   ],
   "repos": [
+    {
+      "name": "asl-guide",
+      "featured": true,
+      "emoji": "🤟",
+      "tagline": "Interactive American Sign Language tutor powered by AWS Bedrock and Framer Motion.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/asl-guide",
+      "homepage": "https://asl-guide.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 679,
+      "createdAt": "2026-06-23T22:02:38Z",
+      "pushedAt": "2026-10-20T02:48:23Z",
+      "updatedAt": "2026-10-20T02:48:26Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 573266,
+          "pct": 88
+        },
+        {
+          "name": "HCL",
+          "color": "#844FBA",
+          "size": 34790,
+          "pct": 5
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 31591,
+          "pct": 5
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 5928,
+          "pct": 1
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "size": 3109,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 711,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 37,
+      "commitsByMonth": {
+        "2026-10": 8,
+        "2026-07": 20,
+        "2026-06": 9
+      },
+      "firstCommit": "2026-06-23T22:02:37Z",
+      "lastCommit": "2026-10-20T02:48:21Z"
+    },
+    {
+      "name": "culinary-card",
+      "featured": true,
+      "emoji": "🍳",
+      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/culinary-card",
+      "homepage": "https://culinary-card.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 77208,
+      "createdAt": "2025-11-05T02:14:23Z",
+      "pushedAt": "2026-10-20T00:22:34Z",
+      "updatedAt": "2026-10-20T00:22:36Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 2212617,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 1024945,
+          "pct": 31
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 17337,
+          "pct": 1
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 14261,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 233,
+      "commitsByMonth": {
+        "2026-10": 85,
+        "2026-09": 15
+      },
+      "firstCommit": "2026-09-25T22:34:31Z",
+      "lastCommit": "2026-10-20T00:22:31Z"
+    },
     {
       "name": "austin-auto",
       "featured": true,
@@ -311,128 +439,6 @@
       },
       "firstCommit": "2024-09-14T19:12:48Z",
       "lastCommit": "2026-03-07T05:11:52Z"
-    },
-    {
-      "name": "culinary-card",
-      "featured": true,
-      "emoji": "🍳",
-      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/culinary-card",
-      "homepage": "https://culinary-card.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 77227,
-      "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-17T04:53:50Z",
-      "updatedAt": "2026-10-17T04:53:52Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 2187999,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 1018078,
-          "pct": 31
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 17337,
-          "pct": 1
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 14261,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 229,
-      "commitsByMonth": {
-        "2026-10": 81,
-        "2026-09": 19
-      },
-      "firstCommit": "2026-09-25T19:01:39Z",
-      "lastCommit": "2026-10-17T04:53:47Z"
-    },
-    {
-      "name": "asl-guide",
-      "featured": true,
-      "emoji": "🤟",
-      "tagline": "Interactive American Sign Language tutor powered by AWS Bedrock and Framer Motion.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/asl-guide",
-      "homepage": "https://asl-guide.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 589,
-      "createdAt": "2026-06-23T22:02:38Z",
-      "pushedAt": "2026-08-24T03:14:37Z",
-      "updatedAt": "2026-07-16T04:06:47Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 433599,
-          "pct": 87
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 29522,
-          "pct": 6
-        },
-        {
-          "name": "HCL",
-          "color": "#844FBA",
-          "size": 25911,
-          "pct": 5
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 5928,
-          "pct": 1
-        },
-        {
-          "name": "Shell",
-          "color": "#89e051",
-          "size": 3109,
-          "pct": 1
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 711,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 29,
-      "commitsByMonth": {
-        "2026-07": 20,
-        "2026-06": 9
-      },
-      "firstCommit": "2026-06-23T22:02:37Z",
-      "lastCommit": "2026-07-16T04:06:43Z"
     },
     {
       "name": "apartment-search",
@@ -598,6 +604,54 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "trueframe-sm",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/trueframe-sm",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 2436,
+      "createdAt": "2025-06-17T03:56:36Z",
+      "pushedAt": "2026-10-19T04:21:29Z",
+      "updatedAt": "2025-06-17T03:56:47Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 49487,
+          "pct": 90
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 5075,
+          "pct": 9
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 362,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 1,
+      "commitsByMonth": {
+        "2025-06": 1
+      },
+      "firstCommit": "2025-06-17T03:56:43Z",
+      "lastCommit": "2025-06-17T03:56:43Z"
+    },
+    {
       "name": "trueframe",
       "featured": false,
       "emoji": null,
@@ -611,7 +665,7 @@
       "forks": 0,
       "diskKb": 3417,
       "createdAt": "2025-06-17T03:56:02Z",
-      "pushedAt": "2026-10-17T16:50:25Z",
+      "pushedAt": "2026-10-19T03:24:47Z",
       "updatedAt": "2025-06-28T03:15:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -644,6 +698,156 @@
       },
       "firstCommit": "2025-06-17T03:56:10Z",
       "lastCommit": "2025-06-28T03:15:43Z"
+    },
+    {
+      "name": "doula-service",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/doula-service",
+      "homepage": "https://v0-doula-landing-page-ten.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 5099,
+      "createdAt": "2025-08-13T02:42:07Z",
+      "pushedAt": "2026-10-19T03:18:18Z",
+      "updatedAt": "2025-12-26T06:22:37Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 27992,
+          "pct": 75
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 8786,
+          "pct": 24
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 371,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 4,
+      "commitsByMonth": {
+        "2025-12": 2,
+        "2025-10": 1,
+        "2025-08": 1
+      },
+      "firstCommit": "2025-08-13T02:42:13Z",
+      "lastCommit": "2025-12-26T06:22:33Z"
+    },
+    {
+      "name": "trueframe-yu",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/trueframe-yu",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 2436,
+      "createdAt": "2025-06-17T03:56:16Z",
+      "pushedAt": "2026-10-19T02:49:03Z",
+      "updatedAt": "2025-06-17T03:56:29Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 49487,
+          "pct": 90
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 5075,
+          "pct": 9
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 362,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 1,
+      "commitsByMonth": {
+        "2025-06": 1
+      },
+      "firstCommit": "2025-06-17T03:56:24Z",
+      "lastCommit": "2025-06-17T03:56:24Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 163,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-18T12:01:25Z",
+      "updatedAt": "2026-10-18T12:01:29Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 87,
+      "commitsByMonth": {
+        "2026-10": 14,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-18T12:01:24Z"
     },
     {
       "name": "codex",
@@ -707,54 +911,6 @@
       "lastCommit": "2025-07-02T02:10:47Z"
     },
     {
-      "name": "trueframe-sm",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/trueframe-sm",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 2436,
-      "createdAt": "2025-06-17T03:56:36Z",
-      "pushedAt": "2026-10-17T15:49:21Z",
-      "updatedAt": "2025-06-17T03:56:47Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 49487,
-          "pct": 90
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 5075,
-          "pct": 9
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 362,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 1,
-      "commitsByMonth": {
-        "2025-06": 1
-      },
-      "firstCommit": "2025-06-17T03:56:43Z",
-      "lastCommit": "2025-06-17T03:56:43Z"
-    },
-    {
       "name": "waterbuffalo",
       "featured": false,
       "emoji": null,
@@ -801,58 +957,6 @@
       },
       "firstCommit": "2023-01-27T20:04:56Z",
       "lastCommit": "2023-01-27T20:09:08Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 161,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-17T11:32:23Z",
-      "updatedAt": "2026-10-17T11:32:27Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 86,
-      "commitsByMonth": {
-        "2026-10": 13,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-17T11:32:22Z"
     },
     {
       "name": "job-bracket",
@@ -1157,54 +1261,6 @@
       "lastCommit": "2026-10-17T01:04:38Z"
     },
     {
-      "name": "trueframe-yu",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/trueframe-yu",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 2436,
-      "createdAt": "2025-06-17T03:56:16Z",
-      "pushedAt": "2026-10-16T23:10:02Z",
-      "updatedAt": "2025-06-17T03:56:29Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 49487,
-          "pct": 90
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 5075,
-          "pct": 9
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 362,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 1,
-      "commitsByMonth": {
-        "2025-06": 1
-      },
-      "firstCommit": "2025-06-17T03:56:24Z",
-      "lastCommit": "2025-06-17T03:56:24Z"
-    },
-    {
       "name": "esv-smile",
       "featured": false,
       "emoji": null,
@@ -1257,56 +1313,6 @@
       },
       "firstCommit": "2023-04-22T02:19:11Z",
       "lastCommit": "2023-04-22T03:01:24Z"
-    },
-    {
-      "name": "doula-service",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/doula-service",
-      "homepage": "https://v0-doula-landing-page-ten.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 5099,
-      "createdAt": "2025-08-13T02:42:07Z",
-      "pushedAt": "2026-10-16T22:16:45Z",
-      "updatedAt": "2025-12-26T06:22:37Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 27992,
-          "pct": 75
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 8786,
-          "pct": 24
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 371,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 4,
-      "commitsByMonth": {
-        "2025-12": 2,
-        "2025-10": 1,
-        "2025-08": 1
-      },
-      "firstCommit": "2025-08-13T02:42:13Z",
-      "lastCommit": "2025-12-26T06:22:33Z"
     },
     {
       "name": "chatleaf-cache",
