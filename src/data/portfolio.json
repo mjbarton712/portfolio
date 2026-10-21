@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:40:40.377Z",
+  "generatedAt": "2026-10-21T12:51:49.880Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 808,
+    "totalCommits": 810,
     "firstYear": 2019,
     "languages": [
       {
@@ -28,7 +28,7 @@
       },
       {
         "name": "HTML",
-        "size": 308401
+        "size": 308470
       },
       {
         "name": "Python",
@@ -74,8 +74,8 @@
         "simple-strands"
       ],
       "active": [
-        "asl-guide",
         "culinary-card",
+        "asl-guide",
         "portfolio",
         "austin-auto",
         "purpose-forecast",
@@ -95,7 +95,7 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 294
+      "commits": 295
     },
     {
       "year": 2025,
@@ -121,12 +121,12 @@
         "daytrade"
       ],
       "active": [
+        "codex",
+        "portfolio",
         "trueframe-sm",
         "trueframe",
         "doula-service",
         "trueframe-yu",
-        "portfolio",
-        "codex",
         "austin-auto",
         "job-bracket",
         "komiori-landing-spark",
@@ -219,41 +219,81 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "asl-guide",
-      "at": "2026-10-20T02:48:23Z"
+      "repo": "codex",
+      "at": "2026-10-21T03:44:41Z"
     },
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-20T00:22:34Z"
+      "at": "2026-10-21T02:26:43Z"
     },
     {
       "type": "updated",
-      "repo": "trueframe-sm",
-      "at": "2026-10-19T04:21:29Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe",
-      "at": "2026-10-19T03:24:47Z"
-    },
-    {
-      "type": "updated",
-      "repo": "doula-service",
-      "at": "2026-10-19T03:18:18Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-yu",
-      "at": "2026-10-19T02:49:03Z"
+      "repo": "asl-guide",
+      "at": "2026-10-20T18:57:26Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-18T12:01:25Z"
+      "at": "2026-10-20T12:40:41Z"
     }
   ],
   "repos": [
+    {
+      "name": "culinary-card",
+      "featured": true,
+      "emoji": "🍳",
+      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/culinary-card",
+      "homepage": "https://culinary-card.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 77209,
+      "createdAt": "2025-11-05T02:14:23Z",
+      "pushedAt": "2026-10-21T02:26:43Z",
+      "updatedAt": "2026-10-21T02:26:45Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 2212617,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 1024945,
+          "pct": 31
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 17406,
+          "pct": 1
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 14261,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 234,
+      "commitsByMonth": {
+        "2026-10": 86,
+        "2026-09": 14
+      },
+      "firstCommit": "2026-09-25T22:49:38Z",
+      "lastCommit": "2026-10-21T02:26:41Z"
+    },
     {
       "name": "asl-guide",
       "featured": true,
@@ -266,9 +306,9 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 679,
+      "diskKb": 823,
       "createdAt": "2026-06-23T22:02:38Z",
-      "pushedAt": "2026-10-20T02:48:23Z",
+      "pushedAt": "2026-10-20T18:57:26Z",
       "updatedAt": "2026-10-20T02:48:26Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -321,61 +361,6 @@
       },
       "firstCommit": "2026-06-23T22:02:37Z",
       "lastCommit": "2026-10-20T02:48:21Z"
-    },
-    {
-      "name": "culinary-card",
-      "featured": true,
-      "emoji": "🍳",
-      "tagline": "AI recipe manager that turns URLs, photos, or scribbles into beautiful cards — Stripe billing, Supabase auth, DALL·E food photography.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/culinary-card",
-      "homepage": "https://culinary-card.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 77208,
-      "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-20T00:22:34Z",
-      "updatedAt": "2026-10-20T00:22:36Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 2212617,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 1024945,
-          "pct": 31
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 17337,
-          "pct": 1
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 14261,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 233,
-      "commitsByMonth": {
-        "2026-10": 85,
-        "2026-09": 15
-      },
-      "firstCommit": "2026-09-25T22:34:31Z",
-      "lastCommit": "2026-10-20T00:22:31Z"
     },
     {
       "name": "austin-auto",
@@ -604,6 +589,119 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "codex",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Integration with ChatGPT to assist with coding",
+      "url": "https://github.com/mjbarton712/codex",
+      "homepage": "https://codex-haven.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 2,
+      "forks": 0,
+      "diskKb": 161,
+      "createdAt": "2023-02-22T02:31:28Z",
+      "pushedAt": "2026-10-21T03:44:41Z",
+      "updatedAt": "2026-10-10T23:37:32Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 10102,
+          "pct": 55
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 6603,
+          "pct": 36
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1529,
+          "pct": 8
+        }
+      ],
+      "topics": [],
+      "commitTotal": 79,
+      "commitsByMonth": {
+        "2025-07": 5,
+        "2024-07": 3,
+        "2024-06": 3,
+        "2024-05": 2,
+        "2024-02": 2,
+        "2024-01": 10,
+        "2023-12": 16,
+        "2023-11": 14,
+        "2023-10": 3,
+        "2023-09": 2,
+        "2023-08": 3,
+        "2023-05": 1,
+        "2023-03": 9,
+        "2023-02": 6
+      },
+      "firstCommit": "2023-02-22T02:31:12Z",
+      "lastCommit": "2025-07-02T02:10:47Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 164,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-20T12:40:41Z",
+      "updatedAt": "2026-10-20T12:40:45Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 88,
+      "commitsByMonth": {
+        "2026-10": 15,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-20T12:40:40Z"
+    },
+    {
       "name": "trueframe-sm",
       "featured": false,
       "emoji": null,
@@ -796,119 +894,6 @@
       },
       "firstCommit": "2025-06-17T03:56:24Z",
       "lastCommit": "2025-06-17T03:56:24Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 163,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-18T12:01:25Z",
-      "updatedAt": "2026-10-18T12:01:29Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 87,
-      "commitsByMonth": {
-        "2026-10": 14,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-18T12:01:24Z"
-    },
-    {
-      "name": "codex",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Integration with ChatGPT to assist with coding",
-      "url": "https://github.com/mjbarton712/codex",
-      "homepage": "https://codex-haven.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 2,
-      "forks": 0,
-      "diskKb": 161,
-      "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2026-10-17T15:56:42Z",
-      "updatedAt": "2026-10-10T23:37:32Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 10102,
-          "pct": 55
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 6603,
-          "pct": 36
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 1529,
-          "pct": 8
-        }
-      ],
-      "topics": [],
-      "commitTotal": 79,
-      "commitsByMonth": {
-        "2025-07": 5,
-        "2024-07": 3,
-        "2024-06": 3,
-        "2024-05": 2,
-        "2024-02": 2,
-        "2024-01": 10,
-        "2023-12": 16,
-        "2023-11": 14,
-        "2023-10": 3,
-        "2023-09": 2,
-        "2023-08": 3,
-        "2023-05": 1,
-        "2023-03": 9,
-        "2023-02": 6
-      },
-      "firstCommit": "2023-02-22T02:31:12Z",
-      "lastCommit": "2025-07-02T02:10:47Z"
     },
     {
       "name": "waterbuffalo",
