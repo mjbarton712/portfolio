@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:51:49.880Z",
+  "generatedAt": "2026-10-22T12:55:05.500Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,12 +11,12 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 810,
+    "totalCommits": 819,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 5854681
+        "size": 5948461
       },
       {
         "name": "JavaScript",
@@ -24,7 +24,7 @@
       },
       {
         "name": "CSS",
-        "size": 308793
+        "size": 309117
       },
       {
         "name": "HTML",
@@ -74,8 +74,8 @@
         "simple-strands"
       ],
       "active": [
-        "culinary-card",
         "asl-guide",
+        "culinary-card",
         "portfolio",
         "austin-auto",
         "purpose-forecast",
@@ -95,7 +95,7 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 295
+      "commits": 303
     },
     {
       "year": 2025,
@@ -121,8 +121,8 @@
         "daytrade"
       ],
       "active": [
-        "codex",
         "portfolio",
+        "codex",
         "trueframe-sm",
         "trueframe",
         "doula-service",
@@ -219,26 +219,89 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "codex",
-      "at": "2026-10-21T03:44:41Z"
+      "repo": "asl-guide",
+      "at": "2026-10-22T04:31:33Z"
     },
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-21T02:26:43Z"
-    },
-    {
-      "type": "updated",
-      "repo": "asl-guide",
-      "at": "2026-10-20T18:57:26Z"
+      "at": "2026-10-22T03:43:59Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-20T12:40:41Z"
+      "at": "2026-10-21T12:51:50Z"
     }
   ],
   "repos": [
+    {
+      "name": "asl-guide",
+      "featured": true,
+      "emoji": "🤟",
+      "tagline": "Interactive American Sign Language tutor powered by AWS Bedrock and Framer Motion.",
+      "description": null,
+      "url": "https://github.com/mjbarton712/asl-guide",
+      "homepage": "https://asl-guide.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 881,
+      "createdAt": "2026-06-23T22:02:38Z",
+      "pushedAt": "2026-10-22T04:31:33Z",
+      "updatedAt": "2026-10-22T04:31:38Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 662047,
+          "pct": 90
+        },
+        {
+          "name": "HCL",
+          "color": "#844FBA",
+          "size": 34790,
+          "pct": 5
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 31591,
+          "pct": 4
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 6252,
+          "pct": 1
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "size": 3109,
+          "pct": 0
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 711,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 44,
+      "commitsByMonth": {
+        "2026-10": 15,
+        "2026-07": 20,
+        "2026-06": 9
+      },
+      "firstCommit": "2026-06-23T22:02:37Z",
+      "lastCommit": "2026-10-22T04:31:33Z"
+    },
     {
       "name": "culinary-card",
       "featured": true,
@@ -251,10 +314,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 77209,
+      "diskKb": 77213,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-21T02:26:43Z",
-      "updatedAt": "2026-10-21T02:26:45Z",
+      "pushedAt": "2026-10-22T03:43:59Z",
+      "updatedAt": "2026-10-22T03:44:02Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -263,7 +326,7 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2212617,
+          "size": 2217616,
           "pct": 68
         },
         {
@@ -286,81 +349,13 @@
         }
       ],
       "topics": [],
-      "commitTotal": 234,
+      "commitTotal": 235,
       "commitsByMonth": {
-        "2026-10": 86,
-        "2026-09": 14
+        "2026-10": 87,
+        "2026-09": 13
       },
-      "firstCommit": "2026-09-25T22:49:38Z",
-      "lastCommit": "2026-10-21T02:26:41Z"
-    },
-    {
-      "name": "asl-guide",
-      "featured": true,
-      "emoji": "🤟",
-      "tagline": "Interactive American Sign Language tutor powered by AWS Bedrock and Framer Motion.",
-      "description": null,
-      "url": "https://github.com/mjbarton712/asl-guide",
-      "homepage": "https://asl-guide.vercel.app",
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 823,
-      "createdAt": "2026-06-23T22:02:38Z",
-      "pushedAt": "2026-10-20T18:57:26Z",
-      "updatedAt": "2026-10-20T02:48:26Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 573266,
-          "pct": 88
-        },
-        {
-          "name": "HCL",
-          "color": "#844FBA",
-          "size": 34790,
-          "pct": 5
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 31591,
-          "pct": 5
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 5928,
-          "pct": 1
-        },
-        {
-          "name": "Shell",
-          "color": "#89e051",
-          "size": 3109,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 711,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 37,
-      "commitsByMonth": {
-        "2026-10": 8,
-        "2026-07": 20,
-        "2026-06": 9
-      },
-      "firstCommit": "2026-06-23T22:02:37Z",
-      "lastCommit": "2026-10-20T02:48:21Z"
+      "firstCommit": "2026-09-26T04:45:56Z",
+      "lastCommit": "2026-10-22T03:43:57Z"
     },
     {
       "name": "austin-auto",
@@ -589,6 +584,58 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 165,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-21T12:51:50Z",
+      "updatedAt": "2026-10-21T12:51:54Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 89,
+      "commitsByMonth": {
+        "2026-10": 16,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-21T12:51:49Z"
+    },
+    {
       "name": "codex",
       "featured": false,
       "emoji": null,
@@ -648,58 +695,6 @@
       },
       "firstCommit": "2023-02-22T02:31:12Z",
       "lastCommit": "2025-07-02T02:10:47Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 164,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-20T12:40:41Z",
-      "updatedAt": "2026-10-20T12:40:45Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 88,
-      "commitsByMonth": {
-        "2026-10": 15,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-20T12:40:40Z"
     },
     {
       "name": "trueframe-sm",
