@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:56:10.739Z",
+  "generatedAt": "2026-10-25T12:28:08.546Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 837,
+    "totalCommits": 840,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6016690
+        "size": 6025497
       },
       {
         "name": "JavaScript",
-        "size": 1223959
+        "size": 1243431
       },
       {
         "name": "CSS",
@@ -56,9 +56,9 @@
     {
       "year": 2026,
       "created": [
+        "portfolio",
         "asl-guide",
         "rooted-labs-llc",
-        "portfolio",
         "purpose-forecast",
         "apartment-search",
         "ai-engineer-matt",
@@ -75,9 +75,9 @@
       ],
       "active": [
         "culinary-card",
+        "portfolio",
         "asl-guide",
         "rooted-labs-llc",
-        "portfolio",
         "austin-auto",
         "purpose-forecast",
         "ping-autoshop",
@@ -95,16 +95,16 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 309
+      "commits": 310
     },
     {
       "year": 2025,
       "created": [
+        "culinary-card",
         "doula-service",
         "trueframe-yu",
         "trueframe",
         "trueframe-sm",
-        "culinary-card",
         "job-bracket",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
@@ -121,13 +121,13 @@
         "daytrade"
       ],
       "active": [
+        "codex",
+        "portfolio",
         "doula-service",
         "trueframe-yu",
         "trueframe",
         "trueframe-sm",
         "job-bracket",
-        "portfolio",
-        "codex",
         "austin-auto",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
@@ -163,13 +163,13 @@
     {
       "year": 2023,
       "created": [
-        "esv-smile",
         "codex",
+        "esv-smile",
         "waterbuffalo"
       ],
       "active": [
-        "esv-smile",
         "codex",
+        "esv-smile",
         "waterbuffalo",
         "Trees"
       ],
@@ -219,58 +219,18 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "doula-service",
-      "at": "2026-10-24T11:50:35Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-yu",
-      "at": "2026-10-24T11:47:09Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe",
-      "at": "2026-10-24T11:45:50Z"
-    },
-    {
-      "type": "updated",
-      "repo": "bible",
-      "at": "2026-10-24T11:42:54Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-sm",
-      "at": "2026-10-24T11:22:36Z"
-    },
-    {
-      "type": "updated",
-      "repo": "esv-smile",
-      "at": "2026-10-24T03:49:03Z"
-    },
-    {
-      "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-24T03:46:05Z"
+      "at": "2026-10-24T19:57:30Z"
     },
     {
       "type": "updated",
-      "repo": "asl-guide",
-      "at": "2026-10-24T02:26:24Z"
-    },
-    {
-      "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-10-24T00:04:07Z"
-    },
-    {
-      "type": "updated",
-      "repo": "rooted-labs-llc",
-      "at": "2026-10-23T17:51:34Z"
+      "repo": "codex",
+      "at": "2026-10-24T13:29:57Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-23T12:33:50Z"
+      "at": "2026-10-24T11:56:11Z"
     }
   ],
   "repos": [
@@ -286,10 +246,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 78784,
+      "diskKb": 78798,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-24T03:46:05Z",
-      "updatedAt": "2026-10-24T03:46:07Z",
+      "pushedAt": "2026-10-24T19:57:30Z",
+      "updatedAt": "2026-10-24T19:57:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -298,13 +258,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2285845,
+          "size": 2294652,
           "pct": 67
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 1079345,
+          "size": 1098817,
           "pct": 32
         },
         {
@@ -333,13 +293,12 @@
         }
       ],
       "topics": [],
-      "commitTotal": 247,
+      "commitTotal": 249,
       "commitsByMonth": {
-        "2026-10": 99,
-        "2026-09": 1
+        "2026-10": 100
       },
-      "firstCommit": "2026-09-28T01:38:59Z",
-      "lastCommit": "2026-10-24T03:46:03Z"
+      "firstCommit": "2026-10-03T16:57:54Z",
+      "lastCommit": "2026-10-24T19:57:28Z"
     },
     {
       "name": "asl-guide",
@@ -634,6 +593,119 @@
       },
       "firstCommit": "2025-12-26T05:05:16Z",
       "lastCommit": "2025-12-26T06:49:39Z"
+    },
+    {
+      "name": "codex",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Integration with ChatGPT to assist with coding",
+      "url": "https://github.com/mjbarton712/codex",
+      "homepage": "https://codex-haven.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 2,
+      "forks": 0,
+      "diskKb": 161,
+      "createdAt": "2023-02-22T02:31:28Z",
+      "pushedAt": "2026-10-24T13:29:57Z",
+      "updatedAt": "2026-10-10T23:37:32Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 10102,
+          "pct": 55
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 6603,
+          "pct": 36
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1529,
+          "pct": 8
+        }
+      ],
+      "topics": [],
+      "commitTotal": 79,
+      "commitsByMonth": {
+        "2025-07": 5,
+        "2024-07": 3,
+        "2024-06": 3,
+        "2024-05": 2,
+        "2024-02": 2,
+        "2024-01": 10,
+        "2023-12": 16,
+        "2023-11": 14,
+        "2023-10": 3,
+        "2023-09": 2,
+        "2023-08": 3,
+        "2023-05": 1,
+        "2023-03": 9,
+        "2023-02": 6
+      },
+      "firstCommit": "2023-02-22T02:31:12Z",
+      "lastCommit": "2025-07-02T02:10:47Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 169,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-24T11:56:11Z",
+      "updatedAt": "2026-10-24T11:56:15Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 92,
+      "commitsByMonth": {
+        "2026-10": 19,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-24T11:56:10Z"
     },
     {
       "name": "doula-service",
@@ -1016,119 +1088,6 @@
       },
       "firstCommit": "2026-01-03T19:06:01Z",
       "lastCommit": "2026-10-23T17:51:32Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 167,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-23T12:33:50Z",
-      "updatedAt": "2026-10-23T12:33:54Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 91,
-      "commitsByMonth": {
-        "2026-10": 18,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-23T12:33:49Z"
-    },
-    {
-      "name": "codex",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Integration with ChatGPT to assist with coding",
-      "url": "https://github.com/mjbarton712/codex",
-      "homepage": "https://codex-haven.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 2,
-      "forks": 0,
-      "diskKb": 161,
-      "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2026-10-21T03:44:41Z",
-      "updatedAt": "2026-10-10T23:37:32Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 10102,
-          "pct": 55
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 6603,
-          "pct": 36
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 1529,
-          "pct": 8
-        }
-      ],
-      "topics": [],
-      "commitTotal": 79,
-      "commitsByMonth": {
-        "2025-07": 5,
-        "2024-07": 3,
-        "2024-06": 3,
-        "2024-05": 2,
-        "2024-02": 2,
-        "2024-01": 10,
-        "2023-12": 16,
-        "2023-11": 14,
-        "2023-10": 3,
-        "2023-09": 2,
-        "2023-08": 3,
-        "2023-05": 1,
-        "2023-03": 9,
-        "2023-02": 6
-      },
-      "firstCommit": "2023-02-22T02:31:12Z",
-      "lastCommit": "2025-07-02T02:10:47Z"
     },
     {
       "name": "waterbuffalo",
