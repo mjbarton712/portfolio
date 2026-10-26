@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:28:08.546Z",
+  "generatedAt": "2026-10-26T14:05:46.941Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,7 +11,7 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 840,
+    "totalCommits": 842,
     "firstYear": 2019,
     "languages": [
       {
@@ -95,7 +95,7 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 310
+      "commits": 311
     },
     {
       "year": 2025,
@@ -121,8 +121,8 @@
         "daytrade"
       ],
       "active": [
-        "codex",
         "portfolio",
+        "codex",
         "doula-service",
         "trueframe-yu",
         "trueframe",
@@ -220,17 +220,12 @@
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-24T19:57:30Z"
-    },
-    {
-      "type": "updated",
-      "repo": "codex",
-      "at": "2026-10-24T13:29:57Z"
+      "at": "2026-10-26T04:55:16Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-24T11:56:11Z"
+      "at": "2026-10-25T12:28:09Z"
     }
   ],
   "repos": [
@@ -246,10 +241,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 78798,
+      "diskKb": 78813,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-24T19:57:30Z",
-      "updatedAt": "2026-10-24T19:57:33Z",
+      "pushedAt": "2026-10-26T04:55:16Z",
+      "updatedAt": "2026-10-26T04:55:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -293,12 +288,12 @@
         }
       ],
       "topics": [],
-      "commitTotal": 249,
+      "commitTotal": 250,
       "commitsByMonth": {
         "2026-10": 100
       },
-      "firstCommit": "2026-10-03T16:57:54Z",
-      "lastCommit": "2026-10-24T19:57:28Z"
+      "firstCommit": "2026-10-03T21:53:35Z",
+      "lastCommit": "2026-10-26T04:55:16Z"
     },
     {
       "name": "asl-guide",
@@ -595,6 +590,58 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 170,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-25T12:28:09Z",
+      "updatedAt": "2026-10-25T12:28:13Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 93,
+      "commitsByMonth": {
+        "2026-10": 20,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-25T12:28:08Z"
+    },
+    {
       "name": "codex",
       "featured": false,
       "emoji": null,
@@ -654,58 +701,6 @@
       },
       "firstCommit": "2023-02-22T02:31:12Z",
       "lastCommit": "2025-07-02T02:10:47Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 169,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-24T11:56:11Z",
-      "updatedAt": "2026-10-24T11:56:15Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 92,
-      "commitsByMonth": {
-        "2026-10": 19,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-24T11:56:10Z"
     },
     {
       "name": "doula-service",
