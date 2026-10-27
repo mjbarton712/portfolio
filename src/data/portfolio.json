@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:05:46.941Z",
+  "generatedAt": "2026-10-27T13:06:46.860Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 842,
+    "totalCommits": 848,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6025497
+        "size": 6069308
       },
       {
         "name": "JavaScript",
-        "size": 1243431
+        "size": 1228306
       },
       {
         "name": "CSS",
@@ -74,11 +74,11 @@
         "simple-strands"
       ],
       "active": [
+        "austin-auto",
         "culinary-card",
         "portfolio",
         "asl-guide",
         "rooted-labs-llc",
-        "austin-auto",
         "purpose-forecast",
         "ping-autoshop",
         "mortgage-rate-checker",
@@ -95,13 +95,13 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 311
+      "commits": 314
     },
     {
       "year": 2025,
       "created": [
-        "culinary-card",
         "doula-service",
+        "culinary-card",
         "trueframe-yu",
         "trueframe",
         "trueframe-sm",
@@ -121,14 +121,14 @@
         "daytrade"
       ],
       "active": [
-        "portfolio",
         "codex",
         "doula-service",
+        "austin-auto",
+        "portfolio",
         "trueframe-yu",
         "trueframe",
         "trueframe-sm",
         "job-bracket",
-        "austin-auto",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
         "yellowfield",
@@ -219,16 +219,95 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "codex",
+      "at": "2026-10-27T08:16:59Z"
+    },
+    {
+      "type": "updated",
+      "repo": "doula-service",
+      "at": "2026-10-27T08:11:53Z"
+    },
+    {
+      "type": "updated",
+      "repo": "austin-auto",
+      "at": "2026-10-27T03:15:38Z"
+    },
+    {
+      "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-10-26T04:55:16Z"
+      "at": "2026-10-26T17:20:07Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-10-25T12:28:09Z"
+      "at": "2026-10-26T14:05:48Z"
     }
   ],
   "repos": [
+    {
+      "name": "austin-auto",
+      "featured": true,
+      "emoji": "🔧",
+      "tagline": "Auto-shop management tool with Anthropic AI, Supabase, and PDF invoicing.",
+      "description": "Compact CRM to hold info on cars fixed for auto shop",
+      "url": "https://github.com/mjbarton712/austin-auto",
+      "homepage": "https://austin-auto.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 1,
+      "forks": 0,
+      "diskKb": 779,
+      "createdAt": "2024-09-14T19:12:47Z",
+      "pushedAt": "2026-10-27T03:15:38Z",
+      "updatedAt": "2026-10-27T03:15:40Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 311657,
+          "pct": 97
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 7472,
+          "pct": 2
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 3027,
+          "pct": 1
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 399,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 75,
+      "commitsByMonth": {
+        "2026-10": 2,
+        "2026-03": 2,
+        "2025-12": 1,
+        "2025-10": 1,
+        "2025-07": 3,
+        "2025-03": 1,
+        "2025-01": 37,
+        "2024-12": 10,
+        "2024-11": 3,
+        "2024-10": 9,
+        "2024-09": 6
+      },
+      "firstCommit": "2024-09-14T19:12:48Z",
+      "lastCommit": "2026-10-27T03:15:36Z"
+    },
     {
       "name": "culinary-card",
       "featured": true,
@@ -241,10 +320,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 78813,
+      "diskKb": 78825,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-10-26T04:55:16Z",
-      "updatedAt": "2026-10-26T04:55:20Z",
+      "pushedAt": "2026-10-26T17:20:07Z",
+      "updatedAt": "2026-10-26T17:20:09Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -253,13 +332,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2294652,
+          "size": 2309386,
           "pct": 67
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 1098817,
+          "size": 1098860,
           "pct": 32
         },
         {
@@ -288,12 +367,12 @@
         }
       ],
       "topics": [],
-      "commitTotal": 250,
+      "commitTotal": 253,
       "commitsByMonth": {
         "2026-10": 100
       },
-      "firstCommit": "2026-10-03T21:53:35Z",
-      "lastCommit": "2026-10-26T04:55:16Z"
+      "firstCommit": "2026-10-04T04:51:29Z",
+      "lastCommit": "2026-10-26T17:20:03Z"
     },
     {
       "name": "asl-guide",
@@ -362,69 +441,6 @@
       },
       "firstCommit": "2026-06-23T22:02:37Z",
       "lastCommit": "2026-10-22T04:31:33Z"
-    },
-    {
-      "name": "austin-auto",
-      "featured": true,
-      "emoji": "🔧",
-      "tagline": "Auto-shop management tool with Anthropic AI, Supabase, and PDF invoicing.",
-      "description": "Compact CRM to hold info on cars fixed for auto shop",
-      "url": "https://github.com/mjbarton712/austin-auto",
-      "homepage": "https://austin-auto.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 1,
-      "forks": 0,
-      "diskKb": 686,
-      "createdAt": "2024-09-14T19:12:47Z",
-      "pushedAt": "2026-10-17T12:03:15Z",
-      "updatedAt": "2026-03-07T05:11:56Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 282580,
-          "pct": 92
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 18195,
-          "pct": 6
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 7472,
-          "pct": 2
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 399,
-          "pct": 0
-        }
-      ],
-      "topics": [],
-      "commitTotal": 73,
-      "commitsByMonth": {
-        "2026-03": 2,
-        "2025-12": 1,
-        "2025-10": 1,
-        "2025-07": 3,
-        "2025-03": 1,
-        "2025-01": 37,
-        "2024-12": 10,
-        "2024-11": 3,
-        "2024-10": 9,
-        "2024-09": 6
-      },
-      "firstCommit": "2024-09-14T19:12:48Z",
-      "lastCommit": "2026-03-07T05:11:52Z"
     },
     {
       "name": "apartment-search",
@@ -590,58 +606,6 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 170,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-10-25T12:28:09Z",
-      "updatedAt": "2026-10-25T12:28:13Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 93,
-      "commitsByMonth": {
-        "2026-10": 20,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
-      },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-10-25T12:28:08Z"
-    },
-    {
       "name": "codex",
       "featured": false,
       "emoji": null,
@@ -655,7 +619,7 @@
       "forks": 0,
       "diskKb": 161,
       "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2026-10-24T13:29:57Z",
+      "pushedAt": "2026-10-27T08:16:59Z",
       "updatedAt": "2026-10-10T23:37:32Z",
       "primaryLanguage": {
         "name": "JavaScript",
@@ -716,7 +680,7 @@
       "forks": 0,
       "diskKb": 5099,
       "createdAt": "2025-08-13T02:42:07Z",
-      "pushedAt": "2026-10-24T11:50:35Z",
+      "pushedAt": "2026-10-27T08:11:53Z",
       "updatedAt": "2025-12-26T06:22:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -751,6 +715,58 @@
       },
       "firstCommit": "2025-08-13T02:42:13Z",
       "lastCommit": "2025-12-26T06:22:33Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 171,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-10-26T14:05:48Z",
+      "updatedAt": "2026-10-26T14:05:52Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 94,
+      "commitsByMonth": {
+        "2026-10": 21,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 2
+      },
+      "firstCommit": "2025-06-02T02:15:11Z",
+      "lastCommit": "2026-10-26T14:05:46Z"
     },
     {
       "name": "trueframe-yu",
