@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:58:19.685Z",
+  "generatedAt": "2026-11-04T15:18:54.914Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 889,
+    "totalCommits": 895,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6332854
+        "size": 6332984
       },
       {
         "name": "JavaScript",
-        "size": 1302296
+        "size": 1326218
       },
       {
         "name": "CSS",
@@ -36,7 +36,7 @@
       },
       {
         "name": "HCL",
-        "size": 42245
+        "size": 42354
       },
       {
         "name": "Swift",
@@ -99,22 +99,22 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 324
+      "commits": 325
     },
     {
       "year": 2025,
       "created": [
-        "culinary-card",
-        "blessings",
-        "mortgage-rate-checker",
+        "yellowfield",
         "job-bracket",
+        "blessings",
+        "culinary-card",
+        "mortgage-rate-checker",
         "trueframe",
         "trueframe-yu",
         "trueframe-sm",
         "doula-service",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
-        "yellowfield",
         "trueframe-golden-canvas",
         "chatleaf-cache",
         "web-alchemy-build",
@@ -125,12 +125,13 @@
         "daytrade"
       ],
       "active": [
-        "portfolio",
+        "yellowfield",
+        "job-bracket",
         "blessings",
         "codex",
+        "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
-        "job-bracket",
         "trueframe",
         "trueframe-yu",
         "trueframe-sm",
@@ -138,7 +139,6 @@
         "doula-service",
         "komiori-landing-spark",
         "ptl-soccer-unleashed",
-        "yellowfield",
         "trueframe-golden-canvas",
         "chatleaf-cache",
         "web-alchemy-build",
@@ -149,7 +149,7 @@
         "domingoh",
         "daytrade"
       ],
-      "commits": 197
+      "commits": 196
     },
     {
       "year": 2024,
@@ -223,13 +223,38 @@
   "changelog": [
     {
       "type": "updated",
+      "repo": "yellowfield",
+      "at": "2026-11-04T08:17:31Z"
+    },
+    {
+      "type": "updated",
+      "repo": "bible",
+      "at": "2026-11-04T08:07:21Z"
+    },
+    {
+      "type": "updated",
+      "repo": "job-bracket",
+      "at": "2026-11-04T07:59:57Z"
+    },
+    {
+      "type": "updated",
+      "repo": "blessings",
+      "at": "2026-11-04T04:10:18Z"
+    },
+    {
+      "type": "updated",
+      "repo": "codex",
+      "at": "2026-11-04T03:54:23Z"
+    },
+    {
+      "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-11-03T14:57:05Z"
+      "at": "2026-11-03T21:21:44Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-11-01T14:12:23Z"
+      "at": "2026-11-03T14:58:20Z"
     }
   ],
   "repos": [
@@ -245,10 +270,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 88279,
+      "diskKb": 88421,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-11-03T14:57:05Z",
-      "updatedAt": "2026-11-03T14:57:08Z",
+      "pushedAt": "2026-11-03T21:21:44Z",
+      "updatedAt": "2026-11-03T21:21:38Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -257,13 +282,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2566955,
+          "size": 2567085,
           "pct": 67
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 1172850,
+          "size": 1196772,
           "pct": 31
         },
         {
@@ -293,7 +318,7 @@
         {
           "name": "HCL",
           "color": "#844FBA",
-          "size": 7455,
+          "size": 7564,
           "pct": 0
         },
         {
@@ -304,13 +329,13 @@
         }
       ],
       "topics": [],
-      "commitTotal": 284,
+      "commitTotal": 289,
       "commitsByMonth": {
-        "2026-11": 19,
-        "2026-10": 81
+        "2026-11": 24,
+        "2026-10": 76
       },
-      "firstCommit": "2026-10-06T23:43:25Z",
-      "lastCommit": "2026-11-03T14:57:02Z"
+      "firstCommit": "2026-10-07T19:19:58Z",
+      "lastCommit": "2026-11-03T21:21:32Z"
     },
     {
       "name": "austin-auto",
@@ -608,21 +633,21 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
-      "name": "portfolio",
+      "name": "yellowfield",
       "featured": false,
       "emoji": null,
       "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
+      "description": "Vibe coding platform",
+      "url": "https://github.com/mjbarton712/yellowfield",
       "homepage": null,
-      "private": false,
+      "private": true,
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 179,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-11-01T14:12:23Z",
-      "updatedAt": "2026-11-01T14:12:26Z",
+      "diskKb": 2260,
+      "createdAt": "2025-09-06T03:58:06Z",
+      "pushedAt": "2026-11-04T08:17:31Z",
+      "updatedAt": "2025-09-06T05:55:23Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -631,34 +656,113 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
+          "size": 13899,
+          "pct": 85
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "size": 2184,
-          "pct": 7
+          "size": 1846,
+          "pct": 11
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 605,
+          "pct": 4
         }
       ],
       "topics": [],
-      "commitTotal": 100,
+      "commitTotal": 2,
       "commitsByMonth": {
-        "2026-11": 1,
-        "2026-10": 26,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 2
+        "2025-09": 2
       },
-      "firstCommit": "2025-06-02T02:15:11Z",
-      "lastCommit": "2026-11-01T14:12:22Z"
+      "firstCommit": "2025-09-06T03:58:06Z",
+      "lastCommit": "2025-09-06T05:55:16Z"
+    },
+    {
+      "name": "bible",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/bible",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 19,
+      "createdAt": "2020-11-22T17:14:28Z",
+      "pushedAt": "2026-11-04T08:07:21Z",
+      "updatedAt": "2020-11-22T17:39:18Z",
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "size": 582,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 3,
+      "commitsByMonth": {
+        "2020-11": 3
+      },
+      "firstCommit": "2020-11-22T17:14:30Z",
+      "lastCommit": "2020-11-22T17:39:15Z"
+    },
+    {
+      "name": "job-bracket",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
+      "url": "https://github.com/mjbarton712/job-bracket",
+      "homepage": "https://job-bracket.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 61,
+      "createdAt": "2025-12-26T06:04:31Z",
+      "pushedAt": "2026-11-04T07:59:57Z",
+      "updatedAt": "2025-12-26T06:14:37Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 53091,
+          "pct": 96
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1543,
+          "pct": 3
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 559,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 5,
+      "commitsByMonth": {
+        "2025-12": 5
+      },
+      "firstCommit": "2025-12-21T20:07:21Z",
+      "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
       "name": "blessings",
@@ -672,9 +776,9 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 133,
+      "diskKb": 136,
       "createdAt": "2025-10-25T03:46:31Z",
-      "pushedAt": "2026-11-01T11:13:21Z",
+      "pushedAt": "2026-11-04T04:10:18Z",
       "updatedAt": "2025-12-26T06:21:38Z",
       "primaryLanguage": {
         "name": "TypeScript",
@@ -723,7 +827,7 @@
       "forks": 0,
       "diskKb": 161,
       "createdAt": "2023-02-22T02:31:28Z",
-      "pushedAt": "2026-11-01T07:29:16Z",
+      "pushedAt": "2026-11-04T03:54:23Z",
       "updatedAt": "2026-10-10T23:37:32Z",
       "primaryLanguage": {
         "name": "JavaScript",
@@ -769,6 +873,59 @@
       },
       "firstCommit": "2023-02-22T02:31:12Z",
       "lastCommit": "2025-07-02T02:10:47Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 180,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-11-03T14:58:20Z",
+      "updatedAt": "2026-11-03T14:58:24Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 101,
+      "commitsByMonth": {
+        "2026-11": 2,
+        "2026-10": 26,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11,
+        "2025-06": 1
+      },
+      "firstCommit": "2025-06-02T03:00:12Z",
+      "lastCommit": "2026-11-03T14:58:19Z"
     },
     {
       "name": "mortgage-rate-checker",
@@ -881,54 +1038,6 @@
       },
       "firstCommit": "2024-12-24T04:15:47Z",
       "lastCommit": "2026-11-01T03:21:17Z"
-    },
-    {
-      "name": "job-bracket",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
-      "url": "https://github.com/mjbarton712/job-bracket",
-      "homepage": "https://job-bracket.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 61,
-      "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-10-30T12:09:46Z",
-      "updatedAt": "2025-12-26T06:14:37Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 53091,
-          "pct": 96
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1543,
-          "pct": 3
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 559,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-12": 5
-      },
-      "firstCommit": "2025-12-21T20:07:21Z",
-      "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
       "name": "trueframe",
@@ -1179,42 +1288,6 @@
       "lastCommit": "2025-12-26T06:22:33Z"
     },
     {
-      "name": "bible",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": null,
-      "url": "https://github.com/mjbarton712/bible",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 19,
-      "createdAt": "2020-11-22T17:14:28Z",
-      "pushedAt": "2026-10-24T11:42:54Z",
-      "updatedAt": "2020-11-22T17:39:18Z",
-      "primaryLanguage": {
-        "name": "Java",
-        "color": "#b07219"
-      },
-      "languages": [
-        {
-          "name": "Java",
-          "color": "#b07219",
-          "size": 582,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 3,
-      "commitsByMonth": {
-        "2020-11": 3
-      },
-      "firstCommit": "2020-11-22T17:14:30Z",
-      "lastCommit": "2020-11-22T17:39:15Z"
-    },
-    {
       "name": "rooted-labs-llc",
       "featured": false,
       "emoji": null,
@@ -1421,54 +1494,6 @@
       },
       "firstCommit": "2025-06-14T23:59:11Z",
       "lastCommit": "2025-10-03T22:59:40Z"
-    },
-    {
-      "name": "yellowfield",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Vibe coding platform",
-      "url": "https://github.com/mjbarton712/yellowfield",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 2253,
-      "createdAt": "2025-09-06T03:58:06Z",
-      "pushedAt": "2026-10-17T07:24:53Z",
-      "updatedAt": "2025-09-06T05:55:23Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 13899,
-          "pct": 85
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1846,
-          "pct": 11
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 605,
-          "pct": 4
-        }
-      ],
-      "topics": [],
-      "commitTotal": 2,
-      "commitsByMonth": {
-        "2025-09": 2
-      },
-      "firstCommit": "2025-09-06T03:58:06Z",
-      "lastCommit": "2025-09-06T05:55:16Z"
     },
     {
       "name": "trueframe-golden-canvas",
