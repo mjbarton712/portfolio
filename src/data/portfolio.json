@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:18:54.914Z",
+  "generatedAt": "2026-11-05T15:19:34.930Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,12 +11,12 @@
     "publicRepos": 17,
     "privateRepos": 31,
     "totalStars": 5,
-    "totalCommits": 895,
+    "totalCommits": 905,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6332984
+        "size": 6344687
       },
       {
         "name": "JavaScript",
@@ -24,7 +24,7 @@
       },
       {
         "name": "CSS",
-        "size": 315335
+        "size": 316369
       },
       {
         "name": "HTML",
@@ -78,6 +78,7 @@
         "simple-strands"
       ],
       "active": [
+        "blessings",
         "culinary-card",
         "portfolio",
         "mortgage-rate-checker",
@@ -99,15 +100,15 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 325
+      "commits": 334
     },
     {
       "year": 2025,
       "created": [
-        "yellowfield",
-        "job-bracket",
         "blessings",
         "culinary-card",
+        "yellowfield",
+        "job-bracket",
         "mortgage-rate-checker",
         "trueframe",
         "trueframe-yu",
@@ -125,11 +126,10 @@
         "daytrade"
       ],
       "active": [
+        "blessings",
         "yellowfield",
         "job-bracket",
-        "blessings",
         "codex",
-        "portfolio",
         "mortgage-rate-checker",
         "ping-autoshop",
         "trueframe",
@@ -149,7 +149,7 @@
         "domingoh",
         "daytrade"
       ],
-      "commits": 196
+      "commits": 195
     },
     {
       "year": 2024,
@@ -223,38 +223,18 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "yellowfield",
-      "at": "2026-11-04T08:17:31Z"
-    },
-    {
-      "type": "updated",
-      "repo": "bible",
-      "at": "2026-11-04T08:07:21Z"
-    },
-    {
-      "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-11-04T07:59:57Z"
-    },
-    {
-      "type": "updated",
       "repo": "blessings",
-      "at": "2026-11-04T04:10:18Z"
-    },
-    {
-      "type": "updated",
-      "repo": "codex",
-      "at": "2026-11-04T03:54:23Z"
+      "at": "2026-11-05T00:02:58Z"
     },
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-11-03T21:21:44Z"
+      "at": "2026-11-04T20:04:11Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-11-03T14:58:20Z"
+      "at": "2026-11-04T15:18:56Z"
     }
   ],
   "repos": [
@@ -270,10 +250,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 88421,
+      "diskKb": 88427,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-11-03T21:21:44Z",
-      "updatedAt": "2026-11-03T21:21:38Z",
+      "pushedAt": "2026-11-04T20:04:11Z",
+      "updatedAt": "2026-11-04T20:04:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -329,13 +309,13 @@
         }
       ],
       "topics": [],
-      "commitTotal": 289,
+      "commitTotal": 290,
       "commitsByMonth": {
-        "2026-11": 24,
-        "2026-10": 76
+        "2026-11": 25,
+        "2026-10": 75
       },
-      "firstCommit": "2026-10-07T19:19:58Z",
-      "lastCommit": "2026-11-03T21:21:32Z"
+      "firstCommit": "2026-10-08T02:41:26Z",
+      "lastCommit": "2026-11-04T20:04:10Z"
     },
     {
       "name": "austin-auto",
@@ -633,6 +613,108 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "blessings",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Blessings from Scripture, liturgy",
+      "url": "https://github.com/mjbarton712/blessings",
+      "homepage": "https://blessings-tau.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 168,
+      "createdAt": "2025-10-25T03:46:31Z",
+      "pushedAt": "2026-11-05T00:02:58Z",
+      "updatedAt": "2026-11-05T00:03:00Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 38171,
+          "pct": 95
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1521,
+          "pct": 4
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 559,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 12,
+      "commitsByMonth": {
+        "2026-11": 8,
+        "2025-12": 2,
+        "2025-10": 2
+      },
+      "firstCommit": "2025-10-25T03:46:31Z",
+      "lastCommit": "2026-11-05T00:02:55Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 181,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-11-04T15:18:56Z",
+      "updatedAt": "2026-11-04T15:19:00Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 68
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 8505,
+          "pct": 25
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 7
+        }
+      ],
+      "topics": [],
+      "commitTotal": 102,
+      "commitsByMonth": {
+        "2026-11": 3,
+        "2026-10": 26,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 11
+      },
+      "firstCommit": "2026-07-07T22:16:41Z",
+      "lastCommit": "2026-11-04T15:18:54Z"
+    },
+    {
       "name": "yellowfield",
       "featured": false,
       "emoji": null,
@@ -765,55 +847,6 @@
       "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
-      "name": "blessings",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Blessings from Scripture, liturgy",
-      "url": "https://github.com/mjbarton712/blessings",
-      "homepage": "https://blessings-tau.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 136,
-      "createdAt": "2025-10-25T03:46:31Z",
-      "pushedAt": "2026-11-04T04:10:18Z",
-      "updatedAt": "2025-12-26T06:21:38Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 26468,
-          "pct": 96
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 559,
-          "pct": 2
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 487,
-          "pct": 2
-        }
-      ],
-      "topics": [],
-      "commitTotal": 4,
-      "commitsByMonth": {
-        "2025-12": 2,
-        "2025-10": 2
-      },
-      "firstCommit": "2025-10-25T03:46:31Z",
-      "lastCommit": "2025-12-26T06:21:34Z"
-    },
-    {
       "name": "codex",
       "featured": false,
       "emoji": null,
@@ -873,59 +906,6 @@
       },
       "firstCommit": "2023-02-22T02:31:12Z",
       "lastCommit": "2025-07-02T02:10:47Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 180,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-11-03T14:58:20Z",
-      "updatedAt": "2026-11-03T14:58:24Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 101,
-      "commitsByMonth": {
-        "2026-11": 2,
-        "2026-10": 26,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11,
-        "2025-06": 1
-      },
-      "firstCommit": "2025-06-02T03:00:12Z",
-      "lastCommit": "2026-11-03T14:58:19Z"
     },
     {
       "name": "mortgage-rate-checker",
