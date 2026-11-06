@@ -45,19 +45,44 @@ function getToken() {
 
 const TOKEN = getToken();
 
-async function gql(query, variables = {}) {
-  const res = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      Authorization: `bearer ${TOKEN}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ query, variables }),
-  });
-  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
-  const json = await res.json();
-  if (json.errors) throw new Error(`GraphQL: ${JSON.stringify(json.errors)}`);
-  return json.data;
+// GitHub's GraphQL API occasionally returns a 5xx or an empty/truncated 200
+// body ("Unexpected end of JSON input"). Retry those a few times with a short
+// backoff; 4xx and GraphQL errors are real problems and fail straight away.
+async function gql(query, variables = {}, attempts = 4) {
+  for (let attempt = 1; ; attempt++) {
+    let retryable = false;
+    try {
+      const res = await fetch("https://api.github.com/graphql", {
+        method: "POST",
+        headers: {
+          Authorization: `bearer ${TOKEN}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ query, variables }),
+      });
+      if (!res.ok) {
+        retryable = res.status >= 500;
+        throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
+      }
+      const text = await res.text();
+      let json;
+      try {
+        json = JSON.parse(text);
+      } catch {
+        retryable = true;
+        throw new Error(`GitHub API returned unparseable JSON (${text.length} bytes)`);
+      }
+      if (json.errors) throw new Error(`GraphQL: ${JSON.stringify(json.errors)}`);
+      return json.data;
+    } catch (err) {
+      // fetch itself throwing (network reset, DNS) is a TypeError: retry it too.
+      if (err instanceof TypeError) retryable = true;
+      if (!retryable || attempt >= attempts) throw err;
+      const wait = 2000 * attempt;
+      console.warn(`${err.message} — retrying in ${wait / 1000}s (attempt ${attempt + 1}/${attempts})`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+  }
 }
 
 const REPO_QUERY = `
