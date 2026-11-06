@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T15:19:34.930Z",
+  "generatedAt": "2026-11-06T20:06:17.436Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -7,28 +7,28 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/56126927?v=4"
   },
   "stats": {
-    "totalRepos": 48,
+    "totalRepos": 49,
     "publicRepos": 17,
-    "privateRepos": 31,
+    "privateRepos": 32,
     "totalStars": 5,
-    "totalCommits": 905,
+    "totalCommits": 917,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6344687
+        "size": 6477754
       },
       {
         "name": "JavaScript",
-        "size": 1326218
+        "size": 1353481
       },
       {
         "name": "CSS",
-        "size": 316369
+        "size": 365172
       },
       {
         "name": "HTML",
-        "size": 308552
+        "size": 309584
       },
       {
         "name": "Python",
@@ -36,7 +36,7 @@
       },
       {
         "name": "HCL",
-        "size": 42354
+        "size": 57874
       },
       {
         "name": "Swift",
@@ -61,6 +61,7 @@
       "year": 2026,
       "created": [
         "portfolio",
+        "starlight-karaoke",
         "asl-guide",
         "rooted-labs-llc",
         "purpose-forecast",
@@ -78,11 +79,13 @@
         "simple-strands"
       ],
       "active": [
-        "blessings",
-        "culinary-card",
+        "job-bracket",
         "portfolio",
-        "mortgage-rate-checker",
         "ping-autoshop",
+        "culinary-card",
+        "starlight-karaoke",
+        "blessings",
+        "mortgage-rate-checker",
         "austin-auto",
         "asl-guide",
         "rooted-labs-llc",
@@ -100,15 +103,15 @@
         "cinnamoon",
         "simple-strands"
       ],
-      "commits": 334
+      "commits": 340
     },
     {
       "year": 2025,
       "created": [
-        "blessings",
-        "culinary-card",
-        "yellowfield",
         "job-bracket",
+        "culinary-card",
+        "blessings",
+        "yellowfield",
         "mortgage-rate-checker",
         "trueframe",
         "trueframe-yu",
@@ -126,12 +129,12 @@
         "daytrade"
       ],
       "active": [
+        "job-bracket",
+        "ping-autoshop",
         "blessings",
         "yellowfield",
-        "job-bracket",
         "codex",
         "mortgage-rate-checker",
-        "ping-autoshop",
         "trueframe",
         "trueframe-yu",
         "trueframe-sm",
@@ -158,8 +161,8 @@
         "austin-auto"
       ],
       "active": [
-        "codex",
         "ping-autoshop",
+        "codex",
         "austin-auto"
       ],
       "commits": 59
@@ -223,18 +226,28 @@
   "changelog": [
     {
       "type": "updated",
-      "repo": "blessings",
-      "at": "2026-11-05T00:02:58Z"
-    },
-    {
-      "type": "updated",
-      "repo": "culinary-card",
-      "at": "2026-11-04T20:04:11Z"
+      "repo": "job-bracket",
+      "at": "2026-11-06T20:06:03Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-11-04T15:18:56Z"
+      "at": "2026-11-06T20:05:44Z"
+    },
+    {
+      "type": "updated",
+      "repo": "ping-autoshop",
+      "at": "2026-11-06T20:05:40Z"
+    },
+    {
+      "type": "updated",
+      "repo": "culinary-card",
+      "at": "2026-11-06T20:00:52Z"
+    },
+    {
+      "type": "new-repo",
+      "repo": "starlight-karaoke",
+      "at": "2026-11-06T09:59:39Z"
     }
   ],
   "repos": [
@@ -250,10 +263,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 88427,
+      "diskKb": 88273,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-11-04T20:04:11Z",
-      "updatedAt": "2026-11-04T20:04:17Z",
+      "pushedAt": "2026-11-06T20:00:52Z",
+      "updatedAt": "2026-11-06T17:31:02Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -262,13 +275,13 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2567085,
+          "size": 2574543,
           "pct": 67
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 1196772,
+          "size": 1205461,
           "pct": 31
         },
         {
@@ -309,13 +322,13 @@
         }
       ],
       "topics": [],
-      "commitTotal": 290,
+      "commitTotal": 294,
       "commitsByMonth": {
-        "2026-11": 25,
-        "2026-10": 75
+        "2026-11": 29,
+        "2026-10": 71
       },
-      "firstCommit": "2026-10-08T02:41:26Z",
-      "lastCommit": "2026-11-04T20:04:10Z"
+      "firstCommit": "2026-10-09T19:41:25Z",
+      "lastCommit": "2026-11-06T17:30:56Z"
     },
     {
       "name": "austin-auto",
@@ -613,6 +626,223 @@
       "lastCommit": "2025-12-26T06:49:39Z"
     },
     {
+      "name": "job-bracket",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
+      "url": "https://github.com/mjbarton712/job-bracket",
+      "homepage": "https://job-bracket.vercel.app",
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 61,
+      "createdAt": "2025-12-26T06:04:31Z",
+      "pushedAt": "2026-11-06T20:06:03Z",
+      "updatedAt": "2026-11-06T20:05:52Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 53091,
+          "pct": 96
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 1543,
+          "pct": 3
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 559,
+          "pct": 1
+        }
+      ],
+      "topics": [],
+      "commitTotal": 6,
+      "commitsByMonth": {
+        "2026-11": 1,
+        "2025-12": 5
+      },
+      "firstCommit": "2025-12-21T20:07:21Z",
+      "lastCommit": "2026-11-06T20:05:47Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 182,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-11-06T20:05:44Z",
+      "updatedAt": "2026-11-06T20:05:49Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 66
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 9549,
+          "pct": 28
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 6
+        }
+      ],
+      "topics": [],
+      "commitTotal": 104,
+      "commitsByMonth": {
+        "2026-11": 5,
+        "2026-10": 26,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 9
+      },
+      "firstCommit": "2026-07-25T13:01:46Z",
+      "lastCommit": "2026-11-06T20:05:42Z"
+    },
+    {
+      "name": "ping-autoshop",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Ping autoshop database in supabase to prevent it from pausing",
+      "url": "https://github.com/mjbarton712/ping-autoshop",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 28,
+      "createdAt": "2024-12-24T04:15:46Z",
+      "pushedAt": "2026-11-06T20:05:40Z",
+      "updatedAt": "2026-11-06T20:05:43Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 1808,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 37,
+      "commitsByMonth": {
+        "2026-11": 2,
+        "2026-10": 1,
+        "2026-09": 1,
+        "2026-08": 1,
+        "2026-07": 1,
+        "2026-06": 1,
+        "2026-05": 3,
+        "2026-04": 1,
+        "2026-03": 1,
+        "2026-02": 1,
+        "2026-01": 1,
+        "2025-12": 1,
+        "2025-11": 1,
+        "2025-10": 3,
+        "2025-09": 1,
+        "2025-08": 1,
+        "2025-07": 1,
+        "2025-06": 1,
+        "2025-05": 1,
+        "2025-04": 2,
+        "2024-12": 11
+      },
+      "firstCommit": "2024-12-24T04:15:47Z",
+      "lastCommit": "2026-11-06T20:05:37Z"
+    },
+    {
+      "name": "starlight-karaoke",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Word-synced karaoke over a dreamy retro horizon. On-device Whisper, MP3/WAV/MP4, private S3 archive.",
+      "url": "https://github.com/mjbarton712/starlight-karaoke",
+      "homepage": "https://starlight-karaoke.vercel.app",
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 118,
+      "createdAt": "2026-11-06T09:59:39Z",
+      "pushedAt": "2026-11-06T15:38:56Z",
+      "updatedAt": "2026-11-06T15:39:01Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 125609,
+          "pct": 60
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 48803,
+          "pct": 23
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 17530,
+          "pct": 8
+        },
+        {
+          "name": "HCL",
+          "color": "#844FBA",
+          "size": 15520,
+          "pct": 7
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 1032,
+          "pct": 0
+        }
+      ],
+      "topics": [],
+      "commitTotal": 4,
+      "commitsByMonth": {
+        "2026-11": 4
+      },
+      "firstCommit": "2026-11-06T09:59:26Z",
+      "lastCommit": "2026-11-06T15:38:55Z"
+    },
+    {
       "name": "blessings",
       "featured": false,
       "emoji": null,
@@ -661,58 +891,6 @@
       },
       "firstCommit": "2025-10-25T03:46:31Z",
       "lastCommit": "2026-11-05T00:02:55Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 181,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-11-04T15:18:56Z",
-      "updatedAt": "2026-11-04T15:19:00Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 68
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 8505,
-          "pct": 25
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 7
-        }
-      ],
-      "topics": [],
-      "commitTotal": 102,
-      "commitsByMonth": {
-        "2026-11": 3,
-        "2026-10": 26,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 11
-      },
-      "firstCommit": "2026-07-07T22:16:41Z",
-      "lastCommit": "2026-11-04T15:18:54Z"
     },
     {
       "name": "yellowfield",
@@ -797,54 +975,6 @@
       },
       "firstCommit": "2020-11-22T17:14:30Z",
       "lastCommit": "2020-11-22T17:39:15Z"
-    },
-    {
-      "name": "job-bracket",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "A double-elimination bracket competition web app for comparing 128 jobs/occupations in a tournament-style bracket built with Next.js and TypeScript",
-      "url": "https://github.com/mjbarton712/job-bracket",
-      "homepage": "https://job-bracket.vercel.app",
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 61,
-      "createdAt": "2025-12-26T06:04:31Z",
-      "pushedAt": "2026-11-04T07:59:57Z",
-      "updatedAt": "2025-12-26T06:14:37Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 53091,
-          "pct": 96
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 1543,
-          "pct": 3
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 559,
-          "pct": 1
-        }
-      ],
-      "topics": [],
-      "commitTotal": 5,
-      "commitsByMonth": {
-        "2025-12": 5
-      },
-      "firstCommit": "2025-12-21T20:07:21Z",
-      "lastCommit": "2025-12-26T06:14:10Z"
     },
     {
       "name": "codex",
@@ -962,62 +1092,6 @@
       },
       "firstCommit": "2025-03-23T16:14:14Z",
       "lastCommit": "2026-11-01T04:27:06Z"
-    },
-    {
-      "name": "ping-autoshop",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Ping autoshop database in supabase to prevent it from pausing",
-      "url": "https://github.com/mjbarton712/ping-autoshop",
-      "homepage": null,
-      "private": true,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 28,
-      "createdAt": "2024-12-24T04:15:46Z",
-      "pushedAt": "2026-11-01T03:21:18Z",
-      "updatedAt": "2026-11-01T03:21:22Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 1808,
-          "pct": 100
-        }
-      ],
-      "topics": [],
-      "commitTotal": 36,
-      "commitsByMonth": {
-        "2026-11": 1,
-        "2026-10": 1,
-        "2026-09": 1,
-        "2026-08": 1,
-        "2026-07": 1,
-        "2026-06": 1,
-        "2026-05": 3,
-        "2026-04": 1,
-        "2026-03": 1,
-        "2026-02": 1,
-        "2026-01": 1,
-        "2025-12": 1,
-        "2025-11": 1,
-        "2025-10": 3,
-        "2025-09": 1,
-        "2025-08": 1,
-        "2025-07": 1,
-        "2025-06": 1,
-        "2025-05": 1,
-        "2025-04": 2,
-        "2024-12": 11
-      },
-      "firstCommit": "2024-12-24T04:15:47Z",
-      "lastCommit": "2026-11-01T03:21:17Z"
     },
     {
       "name": "trueframe",
