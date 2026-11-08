@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:51:57.158Z",
+  "generatedAt": "2026-11-08T14:12:56.516Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -7,24 +7,24 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/56126927?v=4"
   },
   "stats": {
-    "totalRepos": 49,
+    "totalRepos": 50,
     "publicRepos": 17,
-    "privateRepos": 32,
+    "privateRepos": 33,
     "totalStars": 5,
-    "totalCommits": 928,
+    "totalCommits": 935,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6571959
+        "size": 6667691
       },
       {
         "name": "JavaScript",
-        "size": 1370696
+        "size": 1413095
       },
       {
         "name": "CSS",
-        "size": 376960
+        "size": 387821
       },
       {
         "name": "HTML",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Python",
-        "size": 127451
+        "size": 218042
       },
       {
         "name": "HCL",
@@ -64,7 +64,9 @@
     {
       "year": 2026,
       "created": [
+        "mac-storage",
         "starlight-karaoke",
+        "portfolio",
         "simple-strands",
         "cinnamoon",
         "ris",
@@ -78,13 +80,14 @@
         "apartment-search",
         "purpose-forecast",
         "asl-guide",
-        "portfolio",
         "rooted-labs-llc",
         "heidi-tutoring"
       ],
       "active": [
+        "mac-storage",
         "starlight-karaoke",
         "culinary-card",
+        "portfolio",
         "austin-auto",
         "simple-strands",
         "cinnamoon",
@@ -102,12 +105,11 @@
         "mortgage-rate-checker",
         "blessings",
         "ping-autoshop",
-        "portfolio",
         "job-bracket",
         "rooted-labs-llc",
         "heidi-tutoring"
       ],
-      "commits": 348
+      "commits": 350
     },
     {
       "year": 2025,
@@ -229,189 +231,24 @@
   ],
   "changelog": [
     {
+      "type": "new-repo",
+      "repo": "mac-storage",
+      "at": "2026-11-08T02:22:58Z"
+    },
+    {
       "type": "updated",
       "repo": "starlight-karaoke",
-      "at": "2026-11-07T03:50:46Z"
+      "at": "2026-11-07T23:38:46Z"
     },
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-11-07T01:05:47Z"
-    },
-    {
-      "type": "updated",
-      "repo": "austin-auto",
-      "at": "2026-11-06T21:01:41Z"
-    },
-    {
-      "type": "updated",
-      "repo": "christmas-nativity-game",
-      "at": "2026-11-06T20:14:52Z"
-    },
-    {
-      "type": "updated",
-      "repo": "simple-strands",
-      "at": "2026-11-06T20:14:49Z"
-    },
-    {
-      "type": "updated",
-      "repo": "cinnamoon",
-      "at": "2026-11-06T20:14:45Z"
-    },
-    {
-      "type": "updated",
-      "repo": "ris",
-      "at": "2026-11-06T20:14:42Z"
-    },
-    {
-      "type": "updated",
-      "repo": "retro-time-machine",
-      "at": "2026-11-06T20:14:38Z"
-    },
-    {
-      "type": "updated",
-      "repo": "g2-offline-captions",
-      "at": "2026-11-06T20:14:34Z"
-    },
-    {
-      "type": "updated",
-      "repo": "aiewf-2026",
-      "at": "2026-11-06T20:14:31Z"
-    },
-    {
-      "type": "updated",
-      "repo": "l-systems",
-      "at": "2026-11-06T20:14:28Z"
-    },
-    {
-      "type": "updated",
-      "repo": "aiewf-schedule",
-      "at": "2026-11-06T20:14:24Z"
-    },
-    {
-      "type": "updated",
-      "repo": "garden-plot",
-      "at": "2026-11-06T20:14:21Z"
-    },
-    {
-      "type": "updated",
-      "repo": "ai-engineer-matt",
-      "at": "2026-11-06T20:14:17Z"
-    },
-    {
-      "type": "updated",
-      "repo": "apartment-search",
-      "at": "2026-11-06T20:14:14Z"
-    },
-    {
-      "type": "updated",
-      "repo": "breadswater-threads-bloom",
-      "at": "2026-11-06T20:14:10Z"
-    },
-    {
-      "type": "updated",
-      "repo": "web-alchemy-build",
-      "at": "2026-11-06T20:13:46Z"
-    },
-    {
-      "type": "updated",
-      "repo": "chatleaf-cache",
-      "at": "2026-11-06T20:13:21Z"
-    },
-    {
-      "type": "updated",
-      "repo": "purpose-forecast",
-      "at": "2026-11-06T20:12:56Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-golden-canvas",
-      "at": "2026-11-06T20:12:53Z"
-    },
-    {
-      "type": "updated",
-      "repo": "ptl-soccer-unleashed",
-      "at": "2026-11-06T20:12:28Z"
-    },
-    {
-      "type": "updated",
-      "repo": "komiori-landing-spark",
-      "at": "2026-11-06T20:12:04Z"
-    },
-    {
-      "type": "updated",
-      "repo": "waterbuffalo",
-      "at": "2026-11-06T20:11:37Z"
-    },
-    {
-      "type": "updated",
-      "repo": "asl-guide",
-      "at": "2026-11-06T20:11:12Z"
-    },
-    {
-      "type": "updated",
-      "repo": "doula-service",
-      "at": "2026-11-06T20:11:08Z"
-    },
-    {
-      "type": "updated",
-      "repo": "esv-smile",
-      "at": "2026-11-06T20:10:17Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-sm",
-      "at": "2026-11-06T20:09:51Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe-yu",
-      "at": "2026-11-06T20:09:26Z"
-    },
-    {
-      "type": "updated",
-      "repo": "trueframe",
-      "at": "2026-11-06T20:09:01Z"
-    },
-    {
-      "type": "updated",
-      "repo": "mortgage-rate-checker",
-      "at": "2026-11-06T20:08:36Z"
-    },
-    {
-      "type": "updated",
-      "repo": "codex",
-      "at": "2026-11-06T20:07:59Z"
-    },
-    {
-      "type": "updated",
-      "repo": "bible",
-      "at": "2026-11-06T20:07:30Z"
-    },
-    {
-      "type": "updated",
-      "repo": "yellowfield",
-      "at": "2026-11-06T20:07:17Z"
-    },
-    {
-      "type": "updated",
-      "repo": "blessings",
-      "at": "2026-11-06T20:06:51Z"
-    },
-    {
-      "type": "updated",
-      "repo": "ping-autoshop",
-      "at": "2026-11-06T20:06:29Z"
+      "at": "2026-11-07T23:10:34Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-11-06T20:06:19Z"
-    },
-    {
-      "type": "updated",
-      "repo": "job-bracket",
-      "at": "2026-11-06T20:06:16Z"
+      "at": "2026-11-07T13:51:58Z"
     }
   ],
   "repos": [
@@ -427,10 +264,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 88359,
+      "diskKb": 88415,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-11-07T01:05:47Z",
-      "updatedAt": "2026-11-07T01:05:49Z",
+      "pushedAt": "2026-11-07T23:10:34Z",
+      "updatedAt": "2026-11-07T23:10:16Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -439,14 +276,14 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2578618,
-          "pct": 67
+          "size": 2590591,
+          "pct": 66
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 1205461,
-          "pct": 31
+          "size": 1243994,
+          "pct": 32
         },
         {
           "name": "Swift",
@@ -486,13 +323,13 @@
         }
       ],
       "topics": [],
-      "commitTotal": 296,
+      "commitTotal": 300,
       "commitsByMonth": {
-        "2026-11": 31,
-        "2026-10": 69
+        "2026-11": 35,
+        "2026-10": 65
       },
-      "firstCommit": "2026-10-09T20:50:54Z",
-      "lastCommit": "2026-11-07T01:05:44Z"
+      "firstCommit": "2026-10-11T01:37:33Z",
+      "lastCommit": "2026-11-07T23:10:11Z"
     },
     {
       "name": "austin-auto",
@@ -791,6 +628,42 @@
       "lastCommit": "2026-10-22T04:31:33Z"
     },
     {
+      "name": "mac-storage",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": null,
+      "url": "https://github.com/mjbarton712/mac-storage",
+      "homepage": null,
+      "private": true,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 32,
+      "createdAt": "2026-11-08T02:22:58Z",
+      "pushedAt": "2026-11-08T02:23:03Z",
+      "updatedAt": "2026-11-08T02:23:08Z",
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "size": 90591,
+          "pct": 100
+        }
+      ],
+      "topics": [],
+      "commitTotal": 1,
+      "commitsByMonth": {
+        "2026-11": 1
+      },
+      "firstCommit": "2026-11-08T02:22:57Z",
+      "lastCommit": "2026-11-08T02:22:57Z"
+    },
+    {
       "name": "starlight-karaoke",
       "featured": false,
       "emoji": null,
@@ -802,10 +675,10 @@
       "archived": false,
       "stars": 0,
       "forks": 0,
-      "diskKb": 300,
+      "diskKb": 335,
       "createdAt": "2026-11-06T09:59:39Z",
-      "pushedAt": "2026-11-07T03:50:46Z",
-      "updatedAt": "2026-11-07T03:50:48Z",
+      "pushedAt": "2026-11-07T23:38:46Z",
+      "updatedAt": "2026-11-07T23:38:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -814,26 +687,26 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 215739,
-          "pct": 62
+          "size": 299498,
+          "pct": 67
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "size": 60591,
-          "pct": 17
+          "size": 71452,
+          "pct": 16
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 34745,
-          "pct": 10
+          "size": 38611,
+          "pct": 9
         },
         {
           "name": "HCL",
           "color": "#844FBA",
           "size": 23597,
-          "pct": 7
+          "pct": 5
         },
         {
           "name": "Python",
@@ -861,12 +734,64 @@
         }
       ],
       "topics": [],
-      "commitTotal": 11,
+      "commitTotal": 12,
       "commitsByMonth": {
-        "2026-11": 11
+        "2026-11": 12
       },
       "firstCommit": "2026-11-06T09:59:26Z",
-      "lastCommit": "2026-11-07T03:50:43Z"
+      "lastCommit": "2026-11-07T23:38:43Z"
+    },
+    {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 188,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-11-07T13:51:58Z",
+      "updatedAt": "2026-11-07T13:52:01Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 66
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 9549,
+          "pct": 28
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 6
+        }
+      ],
+      "topics": [],
+      "commitTotal": 106,
+      "commitsByMonth": {
+        "2026-11": 7,
+        "2026-10": 26,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 7
+      },
+      "firstCommit": "2026-07-25T13:22:53Z",
+      "lastCommit": "2026-11-07T13:51:57Z"
     },
     {
       "name": "cinnamoon",
@@ -2231,58 +2156,6 @@
       },
       "firstCommit": "2024-12-24T04:15:47Z",
       "lastCommit": "2026-11-06T20:05:37Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 185,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-11-06T20:06:19Z",
-      "updatedAt": "2026-11-06T20:06:22Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 66
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 9549,
-          "pct": 28
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 6
-        }
-      ],
-      "topics": [],
-      "commitTotal": 105,
-      "commitsByMonth": {
-        "2026-11": 6,
-        "2026-10": 26,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 8
-      },
-      "firstCommit": "2026-07-25T13:13:37Z",
-      "lastCommit": "2026-11-06T20:06:17Z"
     },
     {
       "name": "job-bracket",
