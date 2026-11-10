@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:22:37.276Z",
+  "generatedAt": "2026-11-10T15:30:56.475Z",
   "user": {
     "login": "mjbarton712",
     "name": "Matt Barton",
@@ -11,16 +11,16 @@
     "publicRepos": 17,
     "privateRepos": 33,
     "totalStars": 5,
-    "totalCommits": 946,
+    "totalCommits": 960,
     "firstYear": 2019,
     "languages": [
       {
         "name": "TypeScript",
-        "size": 6771007
+        "size": 6791409
       },
       {
         "name": "JavaScript",
-        "size": 1427733
+        "size": 1430928
       },
       {
         "name": "CSS",
@@ -28,7 +28,7 @@
       },
       {
         "name": "HTML",
-        "size": 309584
+        "size": 314926
       },
       {
         "name": "Python",
@@ -40,7 +40,7 @@
       },
       {
         "name": "Swift",
-        "size": 25270
+        "size": 25903
       },
       {
         "name": "Java",
@@ -64,8 +64,8 @@
     {
       "year": 2026,
       "created": [
-        "starlight-karaoke",
         "portfolio",
+        "starlight-karaoke",
         "mac-storage",
         "simple-strands",
         "cinnamoon",
@@ -85,8 +85,8 @@
       ],
       "active": [
         "culinary-card",
-        "starlight-karaoke",
         "portfolio",
+        "starlight-karaoke",
         "mac-storage",
         "austin-auto",
         "simple-strands",
@@ -233,17 +233,12 @@
     {
       "type": "updated",
       "repo": "culinary-card",
-      "at": "2026-11-09T05:45:58Z"
-    },
-    {
-      "type": "updated",
-      "repo": "starlight-karaoke",
-      "at": "2026-11-09T04:49:50Z"
+      "at": "2026-11-09T22:43:50Z"
     },
     {
       "type": "updated",
       "repo": "portfolio",
-      "at": "2026-11-08T14:12:57Z"
+      "at": "2026-11-09T17:22:38Z"
     }
   ],
   "repos": [
@@ -259,10 +254,10 @@
       "archived": false,
       "stars": 1,
       "forks": 0,
-      "diskKb": 88665,
+      "diskKb": 90923,
       "createdAt": "2025-11-05T02:14:23Z",
-      "pushedAt": "2026-11-09T05:45:58Z",
-      "updatedAt": "2026-11-09T05:46:02Z",
+      "pushedAt": "2026-11-09T22:43:50Z",
+      "updatedAt": "2026-11-09T22:43:54Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -271,31 +266,31 @@
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "size": 2627511,
+          "size": 2647913,
           "pct": 67
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "size": 1244477,
-          "pct": 32
+          "size": 1247672,
+          "pct": 31
         },
         {
           "name": "Swift",
           "color": "#F05138",
-          "size": 25270,
+          "size": 25903,
+          "pct": 1
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 22539,
           "pct": 1
         },
         {
           "name": "CSS",
           "color": "#663399",
           "size": 17565,
-          "pct": 0
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "size": 17197,
           "pct": 0
         },
         {
@@ -318,13 +313,13 @@
         }
       ],
       "topics": [],
-      "commitTotal": 305,
+      "commitTotal": 318,
       "commitsByMonth": {
-        "2026-11": 40,
-        "2026-10": 60
+        "2026-11": 53,
+        "2026-10": 47
       },
-      "firstCommit": "2026-10-11T19:42:38Z",
-      "lastCommit": "2026-11-09T05:45:57Z"
+      "firstCommit": "2026-10-13T03:45:52Z",
+      "lastCommit": "2026-11-09T22:43:49Z"
     },
     {
       "name": "austin-auto",
@@ -623,6 +618,58 @@
       "lastCommit": "2026-10-22T04:31:33Z"
     },
     {
+      "name": "portfolio",
+      "featured": false,
+      "emoji": null,
+      "tagline": null,
+      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
+      "url": "https://github.com/mjbarton712/portfolio",
+      "homepage": null,
+      "private": false,
+      "archived": false,
+      "stars": 0,
+      "forks": 0,
+      "diskKb": 179,
+      "createdAt": "2026-07-25T12:59:53Z",
+      "pushedAt": "2026-11-09T17:22:38Z",
+      "updatedAt": "2026-11-09T17:22:43Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "size": 22754,
+          "pct": 66
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 9549,
+          "pct": 28
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 2184,
+          "pct": 6
+        }
+      ],
+      "topics": [],
+      "commitTotal": 108,
+      "commitsByMonth": {
+        "2026-11": 9,
+        "2026-10": 26,
+        "2026-09": 30,
+        "2026-08": 30,
+        "2026-07": 5
+      },
+      "firstCommit": "2026-07-26T07:53:28Z",
+      "lastCommit": "2026-11-09T17:22:37Z"
+    },
+    {
       "name": "starlight-karaoke",
       "featured": false,
       "emoji": null,
@@ -699,58 +746,6 @@
       },
       "firstCommit": "2026-11-06T09:59:26Z",
       "lastCommit": "2026-11-09T04:49:48Z"
-    },
-    {
-      "name": "portfolio",
-      "featured": false,
-      "emoji": null,
-      "tagline": null,
-      "description": "Living, auto-synced portfolio — animated timeline of everything I've built, straight from GitHub",
-      "url": "https://github.com/mjbarton712/portfolio",
-      "homepage": null,
-      "private": false,
-      "archived": false,
-      "stars": 0,
-      "forks": 0,
-      "diskKb": 178,
-      "createdAt": "2026-07-25T12:59:53Z",
-      "pushedAt": "2026-11-08T14:12:57Z",
-      "updatedAt": "2026-11-08T14:13:00Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "size": 22754,
-          "pct": 66
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "size": 9549,
-          "pct": 28
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "size": 2184,
-          "pct": 6
-        }
-      ],
-      "topics": [],
-      "commitTotal": 107,
-      "commitsByMonth": {
-        "2026-11": 8,
-        "2026-10": 26,
-        "2026-09": 30,
-        "2026-08": 30,
-        "2026-07": 6
-      },
-      "firstCommit": "2026-07-25T13:23:24Z",
-      "lastCommit": "2026-11-08T14:12:56Z"
     },
     {
       "name": "mac-storage",
